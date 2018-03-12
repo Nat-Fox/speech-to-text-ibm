@@ -6,7 +6,7 @@ var speech_to_text = new SpeechToTextV1 ({
   password: 'NiIZFrjTElVs'
 });
 
-var files = ['./audio/call1.flac'];
+var files = ['./audio/12.flac'];
 for (var file in files) {
   var params = {
     audio: fs.createReadStream(files[file]),

@@ -1,0 +1,4662 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 12.44,
+          "alternatives": [
+            {
+              "confidence": 0.9722,
+              "word": "me"
+            }
+          ],
+          "end_time": 12.52
+        },
+        {
+          "start_time": 12.52,
+          "alternatives": [
+            {
+              "confidence": 0.9603,
+              "word": "alegra"
+            }
+          ],
+          "end_time": 12.83
+        },
+        {
+          "start_time": 12.83,
+          "alternatives": [
+            {
+              "confidence": 0.9603,
+              "word": "mucho"
+            }
+          ],
+          "end_time": 13.12
+        },
+        {
+          "start_time": 13.77,
+          "alternatives": [
+            {
+              "confidence": 0.9459,
+              "word": "le"
+            }
+          ],
+          "end_time": 13.91
+        },
+        {
+          "start_time": 13.91,
+          "alternatives": [
+            {
+              "confidence": 0.9128,
+              "word": "puedo"
+            }
+          ],
+          "end_time": 14.13
+        },
+        {
+          "start_time": 14.13,
+          "alternatives": [
+            {
+              "confidence": 0.963,
+              "word": "ayudar"
+            }
+          ],
+          "end_time": 14.7
+        },
+        {
+          "start_time": 16.16,
+          "alternatives": [
+            {
+              "confidence": 0.9673,
+              "word": "que"
+            }
+          ],
+          "end_time": 16.28
+        },
+        {
+          "start_time": 16.28,
+          "alternatives": [
+            {
+              "confidence": 0.9673,
+              "word": "tengo"
+            }
+          ],
+          "end_time": 16.83
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "bienvenido",
+              3.26,
+              3.87
+            ],
+            [
+              "móvil",
+              3.87,
+              4.21
+            ],
+            [
+              "inconscientes",
+              4.97,
+              5.6
+            ],
+            [
+              "vuelvo",
+              5.6,
+              5.92
+            ],
+            [
+              "esto",
+              5.92,
+              6.23
+            ],
+            [
+              "como",
+              9.43,
+              9.65
+            ],
+            [
+              "está",
+              9.65,
+              10.21
+            ],
+            [
+              "bien",
+              10.79,
+              11.1
+            ],
+            [
+              "bien",
+              11.1,
+              11.37
+            ],
+            [
+              "gracias",
+              11.37,
+              12.19
+            ],
+            [
+              "me",
+              12.44,
+              12.52
+            ],
+            [
+              "alegra",
+              12.52,
+              12.83
+            ],
+            [
+              "mucho",
+              12.83,
+              13.12
+            ],
+            [
+              "cuénteme",
+              13.12,
+              13.49
+            ],
+            [
+              "qué",
+              13.65,
+              13.77
+            ],
+            [
+              "le",
+              13.77,
+              13.91
+            ],
+            [
+              "puedo",
+              13.91,
+              14.13
+            ],
+            [
+              "ayudar",
+              14.13,
+              14.7
+            ],
+            [
+              "resultó",
+              15.75,
+              16.16
+            ],
+            [
+              "que",
+              16.16,
+              16.28
+            ],
+            [
+              "tengo",
+              16.28,
+              16.83
+            ],
+            [
+              "plan",
+              17.9,
+              18.2
+            ],
+            [
+              "hace",
+              18.2,
+              18.38
+            ],
+            [
+              "más",
+              18.38,
+              18.61
+            ],
+            [
+              "breve",
+              18.61,
+              19.18
+            ],
+            [
+              "yo",
+              19.18,
+              19.35
+            ],
+            [
+              "algún",
+              19.35,
+              19.59
+            ]
+          ],
+          "confidence": 0.718,
+          "transcript": "bienvenido móvil inconscientes vuelvo esto como está bien bien gracias me alegra mucho cuénteme qué le puedo ayudar resultó que tengo plan hace más breve yo algún "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 21.58,
+          "alternatives": [
+            {
+              "confidence": 0.929,
+              "word": "sí"
+            }
+          ],
+          "end_time": 22.12
+        },
+        {
+          "start_time": 22.97,
+          "alternatives": [
+            {
+              "confidence": 0.9487,
+              "word": "un"
+            }
+          ],
+          "end_time": 23.19
+        },
+        {
+          "start_time": 23.19,
+          "alternatives": [
+            {
+              "confidence": 0.975,
+              "word": "mes"
+            }
+          ],
+          "end_time": 23.51
+        },
+        {
+          "start_time": 23.59,
+          "alternatives": [
+            {
+              "confidence": 0.9992,
+              "word": "aproximadamente"
+            }
+          ],
+          "end_time": 24.43
+        },
+        {
+          "start_time": 24.88,
+          "alternatives": [
+            {
+              "confidence": 0.937,
+              "word": "he"
+            }
+          ],
+          "end_time": 25
+        },
+        {
+          "start_time": 25,
+          "alternatives": [
+            {
+              "confidence": 0.937,
+              "word": "tenido"
+            }
+          ],
+          "end_time": 25.3
+        },
+        {
+          "start_time": 25.73,
+          "alternatives": [
+            {
+              "confidence": 0.9308,
+              "word": "con"
+            }
+          ],
+          "end_time": 25.87
+        },
+        {
+          "start_time": 25.87,
+          "alternatives": [
+            {
+              "confidence": 0.9638,
+              "word": "el"
+            }
+          ],
+          "end_time": 25.97
+        },
+        {
+          "start_time": 25.97,
+          "alternatives": [
+            {
+              "confidence": 0.9539,
+              "word": "internet"
+            }
+          ],
+          "end_time": 26.43
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              21.58,
+              22.12
+            ],
+            [
+              "yo",
+              22.71,
+              22.87
+            ],
+            [
+              "es",
+              22.87,
+              22.97
+            ],
+            [
+              "un",
+              22.97,
+              23.19
+            ],
+            [
+              "mes",
+              23.19,
+              23.51
+            ],
+            [
+              "aproximadamente",
+              23.59,
+              24.43
+            ],
+            [
+              "he",
+              24.88,
+              25
+            ],
+            [
+              "tenido",
+              25,
+              25.3
+            ],
+            [
+              "problemas",
+              25.3,
+              25.73
+            ],
+            [
+              "con",
+              25.73,
+              25.87
+            ],
+            [
+              "el",
+              25.87,
+              25.97
+            ],
+            [
+              "internet",
+              25.97,
+              26.43
+            ]
+          ],
+          "confidence": 0.913,
+          "transcript": "sí yo es un mes aproximadamente he tenido problemas con el internet "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "muy",
+              28.06,
+              28.24
+            ],
+            [
+              "bien",
+              28.24,
+              28.5
+            ]
+          ],
+          "confidence": 0.927,
+          "transcript": "muy bien "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 29.51,
+          "alternatives": [
+            {
+              "confidence": 0.992,
+              "word": "no"
+            }
+          ],
+          "end_time": 29.75
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no",
+              29.51,
+              29.75
+            ],
+            [
+              "no",
+              29.75,
+              29.89
+            ],
+            [
+              "no",
+              30.53,
+              30.79
+            ],
+            [
+              "no",
+              31,
+              31.21
+            ],
+            [
+              "en",
+              31.98,
+              32.1
+            ],
+            [
+              "un",
+              32.1,
+              32.17
+            ],
+            [
+              "lugar",
+              32.17,
+              32.38
+            ],
+            [
+              "específico",
+              32.38,
+              33.05
+            ]
+          ],
+          "confidence": 0.812,
+          "transcript": "no no no no en un lugar específico "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 36.46,
+          "alternatives": [
+            {
+              "confidence": 0.9022,
+              "word": "número"
+            }
+          ],
+          "end_time": 36.75
+        },
+        {
+          "start_time": 36.75,
+          "alternatives": [
+            {
+              "confidence": 0.9988,
+              "word": "que"
+            }
+          ],
+          "end_time": 36.84
+        },
+        {
+          "start_time": 36.84,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "vamos"
+            }
+          ],
+          "end_time": 37.14
+        },
+        {
+          "start_time": 37.14,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "a"
+            }
+          ],
+          "end_time": 37.19
+        },
+        {
+          "start_time": 37.19,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "consultar"
+            }
+          ],
+          "end_time": 37.69
+        },
+        {
+          "start_time": 37.69,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "el"
+            }
+          ],
+          "end_time": 37.81
+        },
+        {
+          "start_time": 37.81,
+          "alternatives": [
+            {
+              "confidence": 0.9859,
+              "word": "día"
+            }
+          ],
+          "end_time": 38
+        },
+        {
+          "start_time": 38,
+          "alternatives": [
+            {
+              "confidence": 0.986,
+              "word": "de"
+            }
+          ],
+          "end_time": 38.17
+        },
+        {
+          "start_time": 38.17,
+          "alternatives": [
+            {
+              "confidence": 0.9858,
+              "word": "hoy"
+            }
+          ],
+          "end_time": 38.39
+        },
+        {
+          "start_time": 38.51,
+          "alternatives": [
+            {
+              "confidence": 0.9109,
+              "word": "es"
+            }
+          ],
+          "end_time": 38.68
+        },
+        {
+          "start_time": 39.03,
+          "alternatives": [
+            {
+              "confidence": 0.9282,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 39.74
+        },
+        {
+          "start_time": 41.43,
+          "alternatives": [
+            {
+              "confidence": 0.9321,
+              "word": "dos"
+            }
+          ],
+          "end_time": 41.76
+        },
+        {
+          "start_time": 41.76,
+          "alternatives": [
+            {
+              "confidence": 0.9866,
+              "word": "ocho"
+            }
+          ],
+          "end_time": 42.35
+        },
+        {
+          "start_time": 43.01,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 43.4
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "a",
+              35.48,
+              35.53
+            ],
+            [
+              "verificar",
+              35.53,
+              36.15
+            ],
+            [
+              "el",
+              36.15,
+              36.46
+            ],
+            [
+              "número",
+              36.46,
+              36.75
+            ],
+            [
+              "que",
+              36.75,
+              36.84
+            ],
+            [
+              "vamos",
+              36.84,
+              37.14
+            ],
+            [
+              "a",
+              37.14,
+              37.19
+            ],
+            [
+              "consultar",
+              37.19,
+              37.69
+            ],
+            [
+              "el",
+              37.69,
+              37.81
+            ],
+            [
+              "día",
+              37.81,
+              38
+            ],
+            [
+              "de",
+              38,
+              38.17
+            ],
+            [
+              "hoy",
+              38.17,
+              38.39
+            ],
+            [
+              "es",
+              38.51,
+              38.68
+            ],
+            [
+              "de",
+              38.68,
+              38.77
+            ],
+            [
+              "nueve",
+              39.03,
+              39.74
+            ],
+            [
+              "once",
+              39.74,
+              40.21
+            ],
+            [
+              "cinco",
+              40.21,
+              40.81
+            ],
+            [
+              "ocho",
+              40.81,
+              41.1
+            ],
+            [
+              "tres",
+              41.1,
+              41.43
+            ],
+            [
+              "dos",
+              41.43,
+              41.76
+            ],
+            [
+              "ocho",
+              41.76,
+              42.35
+            ],
+            [
+              "nueve",
+              43.01,
+              43.4
+            ],
+            [
+              "o",
+              43.4,
+              43.52
+            ]
+          ],
+          "confidence": 0.918,
+          "transcript": "a verificar el número que vamos a consultar el día de hoy es de nueve once cinco ocho tres dos ocho nueve o "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 49.45,
+          "alternatives": [
+            {
+              "confidence": 0.9523,
+              "word": "favor"
+            }
+          ],
+          "end_time": 49.95
+        },
+        {
+          "start_time": 50.58,
+          "alternatives": [
+            {
+              "confidence": 0.9878,
+              "word": "dieciocho"
+            }
+          ],
+          "end_time": 51.34
+        },
+        {
+          "start_time": 52.07,
+          "alternatives": [
+            {
+              "confidence": 0.9518,
+              "word": "ocho"
+            }
+          ],
+          "end_time": 52.37
+        },
+        {
+          "start_time": 52.37,
+          "alternatives": [
+            {
+              "confidence": 0.9459,
+              "word": "doce"
+            }
+          ],
+          "end_time": 52.89
+        },
+        {
+          "start_time": 53.31,
+          "alternatives": [
+            {
+              "confidence": 0.9937,
+              "word": "ocho"
+            }
+          ],
+          "end_time": 53.7
+        },
+        {
+          "start_time": 53.7,
+          "alternatives": [
+            {
+              "confidence": 0.9937,
+              "word": "ocho"
+            }
+          ],
+          "end_time": 53.9
+        },
+        {
+          "start_time": 53.9,
+          "alternatives": [
+            {
+              "confidence": 0.9937,
+              "word": "cinco"
+            }
+          ],
+          "end_time": 54.58
+        },
+        {
+          "start_time": 55.37,
+          "alternatives": [
+            {
+              "confidence": 0.9442,
+              "word": "ocho"
+            }
+          ],
+          "end_time": 55.67
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "mírame",
+              47.32,
+              47.68
+            ],
+            [
+              "es",
+              47.68,
+              47.77
+            ],
+            [
+              "el",
+              47.77,
+              47.83
+            ],
+            [
+              "número",
+              47.83,
+              48.18
+            ],
+            [
+              "de",
+              48.18,
+              48.29
+            ],
+            [
+              "renombre",
+              48.29,
+              48.78
+            ],
+            [
+              "completo",
+              48.78,
+              49.26
+            ],
+            [
+              "por",
+              49.26,
+              49.45
+            ],
+            [
+              "favor",
+              49.45,
+              49.95
+            ],
+            [
+              "dieciocho",
+              50.58,
+              51.34
+            ],
+            [
+              "ocho",
+              52.07,
+              52.37
+            ],
+            [
+              "doce",
+              52.37,
+              52.89
+            ],
+            [
+              "ocho",
+              53.31,
+              53.7
+            ],
+            [
+              "ocho",
+              53.7,
+              53.9
+            ],
+            [
+              "cinco",
+              53.9,
+              54.58
+            ],
+            [
+              "ocho",
+              55.37,
+              55.67
+            ]
+          ],
+          "confidence": 0.875,
+          "transcript": "mírame es el número de renombre completo por favor dieciocho ocho doce ocho ocho cinco ocho "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 60.2,
+          "alternatives": [
+            {
+              "confidence": 0.9204,
+              "word": "permítame"
+            }
+          ],
+          "end_time": 60.77
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "permítame",
+              60.2,
+              60.77
+            ],
+            [
+              "un",
+              61.42,
+              61.48
+            ],
+            [
+              "momento",
+              61.48,
+              61.84
+            ],
+            [
+              "no",
+              61.84,
+              61.95
+            ],
+            [
+              "me",
+              61.95,
+              62.09
+            ]
+          ],
+          "confidence": 0.831,
+          "transcript": "permítame un momento no me "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 154.31,
+          "alternatives": [
+            {
+              "confidence": 0.9148,
+              "word": "sistema"
+            }
+          ],
+          "end_time": 154.86
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "aló",
+              147.79,
+              148.28
+            ],
+            [
+              "aló",
+              148.91,
+              149.4
+            ],
+            [
+              "la",
+              149.65,
+              149.82
+            ],
+            [
+              "gran",
+              149.82,
+              150.09
+            ],
+            [
+              "primeramente",
+              150.09,
+              150.84
+            ],
+            [
+              "tiempo",
+              150.84,
+              151.14
+            ],
+            [
+              "espere",
+              151.14,
+              151.44
+            ],
+            [
+              "un",
+              152.1,
+              152.18
+            ],
+            [
+              "momento",
+              152.18,
+              152.54
+            ],
+            [
+              "morder",
+              152.57,
+              152.91
+            ],
+            [
+              "una",
+              152.91,
+              153.03
+            ],
+            [
+              "actualización",
+              153.03,
+              153.78
+            ],
+            [
+              "desde",
+              153.78,
+              153.95
+            ],
+            [
+              "acá",
+              153.95,
+              154.17
+            ],
+            [
+              "el",
+              154.17,
+              154.31
+            ],
+            [
+              "sistema",
+              154.31,
+              154.86
+            ],
+            [
+              "de",
+              155.98,
+              156.04
+            ],
+            [
+              "trabajo",
+              156.04,
+              156.42
+            ],
+            [
+              "de",
+              157.77,
+              157.84
+            ],
+            [
+              "acuerdo",
+              157.84,
+              158.21
+            ],
+            [
+              "huidos",
+              158.62,
+              159.08
+            ]
+          ],
+          "confidence": 0.75,
+          "transcript": "aló aló la gran primeramente tiempo espere un momento morder una actualización desde acá el sistema de trabajo de acuerdo huidos "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 162.32,
+          "alternatives": [
+            {
+              "confidence": 0.9122,
+              "word": "momento"
+            }
+          ],
+          "end_time": 162.76
+        },
+        {
+          "start_time": 163.27,
+          "alternatives": [
+            {
+              "confidence": 0.9523,
+              "word": "es"
+            }
+          ],
+          "end_time": 163.6
+        },
+        {
+          "start_time": 168.61,
+          "alternatives": [
+            {
+              "confidence": 0.942,
+              "word": "en"
+            }
+          ],
+          "end_time": 168.74
+        },
+        {
+          "start_time": 168.74,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "alta"
+            }
+          ],
+          "end_time": 169.03
+        },
+        {
+          "start_time": 169.03,
+          "alternatives": [
+            {
+              "confidence": 0.9984,
+              "word": "o"
+            }
+          ],
+          "end_time": 169.22
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "en",
+              162.03,
+              162.13
+            ],
+            [
+              "ese",
+              162.13,
+              162.32
+            ],
+            [
+              "momento",
+              162.32,
+              162.76
+            ],
+            [
+              "que",
+              162.76,
+              162.87
+            ],
+            [
+              "marca",
+              162.87,
+              163.27
+            ],
+            [
+              "es",
+              163.27,
+              163.6
+            ],
+            [
+              "comprueben",
+              165.89,
+              166.5
+            ],
+            [
+              "corrección",
+              166.89,
+              167.61
+            ],
+            [
+              "una",
+              167.61,
+              167.75
+            ],
+            [
+              "colocarlo",
+              167.75,
+              168.21
+            ],
+            [
+              "por",
+              168.21,
+              168.36
+            ],
+            [
+              "favor",
+              168.36,
+              168.61
+            ],
+            [
+              "en",
+              168.61,
+              168.74
+            ],
+            [
+              "alta",
+              168.74,
+              169.03
+            ],
+            [
+              "o",
+              169.03,
+              169.22
+            ]
+          ],
+          "confidence": 0.689,
+          "transcript": "en ese momento que marca es comprueben corrección una colocarlo por favor en alta o "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 171.04,
+          "alternatives": [
+            {
+              "confidence": 0.906,
+              "word": "vamos"
+            }
+          ],
+          "end_time": 171.34
+        },
+        {
+          "start_time": 171.34,
+          "alternatives": [
+            {
+              "confidence": 0.906,
+              "word": "a"
+            }
+          ],
+          "end_time": 171.37
+        },
+        {
+          "start_time": 173.16,
+          "alternatives": [
+            {
+              "confidence": 0.9002,
+              "word": "configuración"
+            }
+          ],
+          "end_time": 174.1
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "vamos",
+              171.04,
+              171.34
+            ],
+            [
+              "a",
+              171.34,
+              171.37
+            ],
+            [
+              "volcar",
+              171.37,
+              171.71
+            ],
+            [
+              "único",
+              171.71,
+              172.03
+            ],
+            [
+              "lo",
+              172.03,
+              172.14
+            ],
+            [
+              "que",
+              172.14,
+              172.23
+            ],
+            [
+              "hice",
+              172.23,
+              172.53
+            ],
+            [
+              "ajustes",
+              172.53,
+              173.1
+            ],
+            [
+              "de",
+              173.1,
+              173.16
+            ],
+            [
+              "configuración",
+              173.16,
+              174.1
+            ]
+          ],
+          "confidence": 0.721,
+          "transcript": "vamos a volcar único lo que hice ajustes de configuración "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 175.18,
+          "alternatives": [
+            {
+              "confidence": 0.9021,
+              "word": "<eps>"
+            }
+          ],
+          "end_time": 175.83
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "hoy",
+              176.48,
+              176.72
+            ],
+            [
+              "es",
+              176.72,
+              177.06
+            ],
+            [
+              "sí",
+              177.43,
+              177.95
+            ]
+          ],
+          "confidence": 0.607,
+          "transcript": "hoy es sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "nombre",
+              179.74,
+              180.19
+            ],
+            [
+              "del",
+              180.19,
+              180.32
+            ],
+            [
+              "culto",
+              180.32,
+              180.63
+            ],
+            [
+              "exceso",
+              180.63,
+              181.21
+            ],
+            [
+              "aparente",
+              184.7,
+              185.07
+            ],
+            [
+              "restablecer",
+              185.07,
+              185.74
+            ],
+            [
+              "valores",
+              185.74,
+              186.3
+            ],
+            [
+              "termina",
+              187.23,
+              187.83
+            ]
+          ],
+          "confidence": 0.665,
+          "transcript": "nombre del culto exceso aparente restablecer valores termina "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 191.4,
+          "alternatives": [
+            {
+              "confidence": 0.9718,
+              "word": "no"
+            }
+          ],
+          "end_time": 191.64
+        },
+        {
+          "start_time": 191.64,
+          "alternatives": [
+            {
+              "confidence": 0.9719,
+              "word": "me"
+            }
+          ],
+          "end_time": 191.75
+        },
+        {
+          "start_time": 191.75,
+          "alternatives": [
+            {
+              "confidence": 0.9099,
+              "word": "dice"
+            }
+          ],
+          "end_time": 191.98
+        },
+        {
+          "start_time": 193.11,
+          "alternatives": [
+            {
+              "confidence": 0.9076,
+              "word": "no"
+            }
+          ],
+          "end_time": 193.21
+        },
+        {
+          "start_time": 193.21,
+          "alternatives": [
+            {
+              "confidence": 0.95,
+              "word": "me"
+            }
+          ],
+          "end_time": 193.29
+        },
+        {
+          "start_time": 193.29,
+          "alternatives": [
+            {
+              "confidence": 0.9675,
+              "word": "da"
+            }
+          ],
+          "end_time": 193.4
+        },
+        {
+          "start_time": 193.51,
+          "alternatives": [
+            {
+              "confidence": 0.9675,
+              "word": "opción"
+            }
+          ],
+          "end_time": 193.8
+        },
+        {
+          "start_time": 194.38,
+          "alternatives": [
+            {
+              "confidence": 0.9199,
+              "word": "hacerlo"
+            }
+          ],
+          "end_time": 194.64
+        },
+        {
+          "start_time": 194.64,
+          "alternatives": [
+            {
+              "confidence": 0.9199,
+              "word": "porque"
+            }
+          ],
+          "end_time": 194.83
+        },
+        {
+          "start_time": 194.83,
+          "alternatives": [
+            {
+              "confidence": 0.949,
+              "word": "ya"
+            }
+          ],
+          "end_time": 194.97
+        },
+        {
+          "start_time": 194.97,
+          "alternatives": [
+            {
+              "confidence": 0.9489,
+              "word": "lo"
+            }
+          ],
+          "end_time": 195.09
+        },
+        {
+          "start_time": 195.29,
+          "alternatives": [
+            {
+              "confidence": 0.9096,
+              "word": "varias"
+            }
+          ],
+          "end_time": 195.58
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no",
+              191.4,
+              191.64
+            ],
+            [
+              "me",
+              191.64,
+              191.75
+            ],
+            [
+              "dice",
+              191.75,
+              191.98
+            ],
+            [
+              "él",
+              192.28,
+              192.39
+            ],
+            [
+              "es",
+              192.39,
+              192.52
+            ],
+            [
+              "el",
+              192.52,
+              192.64
+            ],
+            [
+              "valor",
+              192.64,
+              192.95
+            ],
+            [
+              "pero",
+              192.95,
+              193.11
+            ],
+            [
+              "no",
+              193.11,
+              193.21
+            ],
+            [
+              "me",
+              193.21,
+              193.29
+            ],
+            [
+              "da",
+              193.29,
+              193.4
+            ],
+            [
+              "la",
+              193.4,
+              193.51
+            ],
+            [
+              "opción",
+              193.51,
+              193.8
+            ],
+            [
+              "para",
+              193.8,
+              194.17
+            ],
+            [
+              "para",
+              194.17,
+              194.38
+            ],
+            [
+              "hacerlo",
+              194.38,
+              194.64
+            ],
+            [
+              "porque",
+              194.64,
+              194.83
+            ],
+            [
+              "ya",
+              194.83,
+              194.97
+            ],
+            [
+              "lo",
+              194.97,
+              195.09
+            ],
+            [
+              "he",
+              195.09,
+              195.14
+            ],
+            [
+              "hecho",
+              195.14,
+              195.29
+            ],
+            [
+              "varias",
+              195.29,
+              195.58
+            ]
+          ],
+          "confidence": 0.749,
+          "transcript": "no me dice él es el valor pero no me da la opción para para hacerlo porque ya lo he hecho varias "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 204.2,
+          "alternatives": [
+            {
+              "confidence": 0.9072,
+              "word": "punto"
+            }
+          ],
+          "end_time": 204.51
+        },
+        {
+          "start_time": 204.66,
+          "alternatives": [
+            {
+              "confidence": 0.9245,
+              "word": "l"
+            }
+          ],
+          "end_time": 205.03
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "y",
+              196.61,
+              196.83
+            ],
+            [
+              "la",
+              196.83,
+              196.96
+            ],
+            [
+              "pared",
+              196.96,
+              197.28
+            ],
+            [
+              "aprendí",
+              197.28,
+              198.15
+            ],
+            [
+              "que",
+              199.42,
+              200.06
+            ],
+            [
+              "movistar",
+              201.92,
+              202.48
+            ],
+            [
+              "internet",
+              202.48,
+              203.23
+            ],
+            [
+              "móvil",
+              203.85,
+              204.2
+            ],
+            [
+              "punto",
+              204.2,
+              204.51
+            ],
+            [
+              "c",
+              204.51,
+              204.66
+            ],
+            [
+              "l",
+              204.66,
+              205.03
+            ]
+          ],
+          "confidence": 0.81,
+          "transcript": "y la pared aprendí que movistar internet móvil punto c l "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "añadir",
+              207.9,
+              208.53
+            ]
+          ],
+          "confidence": 0.994,
+          "transcript": "añadir "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 214.06,
+          "alternatives": [
+            {
+              "confidence": 0.9209,
+              "word": "la"
+            }
+          ],
+          "end_time": 214.17
+        },
+        {
+          "start_time": 214.17,
+          "alternatives": [
+            {
+              "confidence": 0.9069,
+              "word": "pared"
+            }
+          ],
+          "end_time": 214.53
+        },
+        {
+          "start_time": 214.64,
+          "alternatives": [
+            {
+              "confidence": 0.9038,
+              "word": "color"
+            }
+          ],
+          "end_time": 214.91
+        },
+        {
+          "start_time": 215.14,
+          "alternatives": [
+            {
+              "confidence": 0.91,
+              "word": "inactivo"
+            }
+          ],
+          "end_time": 215.79
+        },
+        {
+          "start_time": 219.71,
+          "alternatives": [
+            {
+              "confidence": 0.9073,
+              "word": "la"
+            }
+          ],
+          "end_time": 219.8
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "opción",
+              212.24,
+              212.65
+            ],
+            [
+              "que",
+              212.65,
+              212.71
+            ],
+            [
+              "aparece",
+              212.71,
+              213.11
+            ],
+            [
+              "restablecer",
+              213.11,
+              213.69
+            ],
+            [
+              "valores",
+              213.69,
+              214.06
+            ],
+            [
+              "la",
+              214.06,
+              214.17
+            ],
+            [
+              "pared",
+              214.17,
+              214.53
+            ],
+            [
+              "un",
+              214.53,
+              214.64
+            ],
+            [
+              "color",
+              214.64,
+              214.91
+            ],
+            [
+              "gris",
+              214.91,
+              215.14
+            ],
+            [
+              "inactivo",
+              215.14,
+              215.79
+            ],
+            [
+              "activo",
+              216.7,
+              217.06
+            ],
+            [
+              "claramente",
+              217.06,
+              217.69
+            ],
+            [
+              "lo",
+              219.07,
+              219.22
+            ],
+            [
+              "que",
+              219.22,
+              219.29
+            ],
+            [
+              "estamos",
+              219.29,
+              219.59
+            ],
+            [
+              "con",
+              219.59,
+              219.71
+            ],
+            [
+              "la",
+              219.71,
+              219.8
+            ],
+            [
+              "llamada",
+              219.8,
+              220.13
+            ],
+            [
+              "en",
+              220.13,
+              220.25
+            ],
+            [
+              "curso",
+              220.25,
+              220.58
+            ],
+            [
+              "permítame",
+              220.58,
+              221.05
+            ],
+            [
+              "un",
+              221.05,
+              221.12
+            ],
+            [
+              "momento",
+              221.12,
+              221.47
+            ],
+            [
+              "ya",
+              221.47,
+              221.57
+            ],
+            [
+              "alguna",
+              221.57,
+              221.83
+            ],
+            [
+              "restauración",
+              221.83,
+              222.41
+            ],
+            [
+              "desde",
+              222.41,
+              222.62
+            ],
+            [
+              "acá",
+              222.62,
+              222.92
+            ],
+            [
+              "ahorita",
+              223.97,
+              224.29
+            ],
+            [
+              "que",
+              224.29,
+              224.38
+            ],
+            [
+              "nosotros",
+              224.38,
+              224.82
+            ],
+            [
+              "minali",
+              224.82,
+              225.14
+            ],
+            [
+              "más",
+              225.59,
+              225.91
+            ],
+            [
+              "veloz",
+              225.91,
+              226.18
+            ],
+            [
+              "de",
+              226.18,
+              226.27
+            ],
+            [
+              "lección",
+              226.27,
+              226.77
+            ]
+          ],
+          "confidence": 0.7,
+          "transcript": "opción que aparece restablecer valores la pared un color gris inactivo activo claramente lo que estamos con la llamada en curso permítame un momento ya alguna restauración desde acá ahorita que nosotros minali más veloz de lección "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "ok",
+              227.61,
+              227.9
+            ]
+          ],
+          "confidence": 0.604,
+          "transcript": "ok "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 231.12,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "no"
+            }
+          ],
+          "end_time": 231.26
+        },
+        {
+          "start_time": 231.26,
+          "alternatives": [
+            {
+              "confidence": 0.957,
+              "word": "me"
+            }
+          ],
+          "end_time": 231.38
+        },
+        {
+          "start_time": 231.62,
+          "alternatives": [
+            {
+              "confidence": 0.9546,
+              "word": "cortar"
+            }
+          ],
+          "end_time": 231.98
+        },
+        {
+          "start_time": 231.98,
+          "alternatives": [
+            {
+              "confidence": 0.9546,
+              "word": "por"
+            }
+          ],
+          "end_time": 232.16
+        },
+        {
+          "start_time": 232.16,
+          "alternatives": [
+            {
+              "confidence": 0.9546,
+              "word": "favor"
+            }
+          ],
+          "end_time": 232.57
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no",
+              231.12,
+              231.26
+            ],
+            [
+              "me",
+              231.26,
+              231.38
+            ],
+            [
+              "haga",
+              231.38,
+              231.62
+            ],
+            [
+              "cortar",
+              231.62,
+              231.98
+            ],
+            [
+              "por",
+              231.98,
+              232.16
+            ],
+            [
+              "favor",
+              232.16,
+              232.57
+            ]
+          ],
+          "confidence": 0.863,
+          "transcript": "no me haga cortar por favor "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 235.9,
+          "alternatives": [
+            {
+              "confidence": 0.9168,
+              "word": "información"
+            }
+          ],
+          "end_time": 236.43
+        },
+        {
+          "start_time": 236.43,
+          "alternatives": [
+            {
+              "confidence": 0.904,
+              "word": "adicional"
+            }
+          ],
+          "end_time": 236.93
+        },
+        {
+          "start_time": 237.34,
+          "alternatives": [
+            {
+              "confidence": 0.9753,
+              "word": "que"
+            }
+          ],
+          "end_time": 237.4
+        },
+        {
+          "start_time": 237.4,
+          "alternatives": [
+            {
+              "confidence": 0.9636,
+              "word": "en"
+            }
+          ],
+          "end_time": 237.47
+        },
+        {
+          "start_time": 237.47,
+          "alternatives": [
+            {
+              "confidence": 0.9687,
+              "word": "el"
+            }
+          ],
+          "end_time": 237.56
+        },
+        {
+          "start_time": 237.56,
+          "alternatives": [
+            {
+              "confidence": 0.9754,
+              "word": "momento"
+            }
+          ],
+          "end_time": 237.94
+        },
+        {
+          "start_time": 237.94,
+          "alternatives": [
+            {
+              "confidence": 0.9277,
+              "word": "que"
+            }
+          ],
+          "end_time": 238.04
+        },
+        {
+          "start_time": 240.39,
+          "alternatives": [
+            {
+              "confidence": 0.9138,
+              "word": "televisión"
+            }
+          ],
+          "end_time": 240.85
+        },
+        {
+          "start_time": 240.85,
+          "alternatives": [
+            {
+              "confidence": 0.9593,
+              "word": "y"
+            }
+          ],
+          "end_time": 240.92
+        },
+        {
+          "start_time": 240.92,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "telefonía"
+            }
+          ],
+          "end_time": 241.52
+        },
+        {
+          "start_time": 241.52,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "para"
+            }
+          ],
+          "end_time": 241.7
+        },
+        {
+          "start_time": 243.95,
+          "alternatives": [
+            {
+              "confidence": 0.9449,
+              "word": "treinta"
+            }
+          ],
+          "end_time": 244.32
+        },
+        {
+          "start_time": 251.91,
+          "alternatives": [
+            {
+              "confidence": 0.9537,
+              "word": "la"
+            }
+          ],
+          "end_time": 252.03
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "pues",
+              235.34,
+              235.68
+            ],
+            [
+              "una",
+              235.68,
+              235.9
+            ],
+            [
+              "información",
+              235.9,
+              236.43
+            ],
+            [
+              "adicional",
+              236.43,
+              236.93
+            ],
+            [
+              "recuerde",
+              236.93,
+              237.34
+            ],
+            [
+              "que",
+              237.34,
+              237.4
+            ],
+            [
+              "en",
+              237.4,
+              237.47
+            ],
+            [
+              "el",
+              237.47,
+              237.56
+            ],
+            [
+              "momento",
+              237.56,
+              237.94
+            ],
+            [
+              "que",
+              237.94,
+              238.04
+            ],
+            [
+              "se",
+              238.21,
+              238.64
+            ],
+            [
+              "puede",
+              239.3,
+              239.54
+            ],
+            [
+              "llevar",
+              239.54,
+              239.84
+            ],
+            [
+              "internet",
+              239.84,
+              240.39
+            ],
+            [
+              "televisión",
+              240.39,
+              240.85
+            ],
+            [
+              "y",
+              240.85,
+              240.92
+            ],
+            [
+              "telefonía",
+              240.92,
+              241.52
+            ],
+            [
+              "para",
+              241.52,
+              241.7
+            ],
+            [
+              "el",
+              241.7,
+              241.78
+            ],
+            [
+              "hogar",
+              241.78,
+              242.15
+            ],
+            [
+              "de",
+              243,
+              243.11
+            ],
+            [
+              "la",
+              243.11,
+              243.22
+            ],
+            [
+              "mención",
+              243.22,
+              243.56
+            ],
+            [
+              "del",
+              243.56,
+              243.72
+            ],
+            [
+              "me",
+              243.72,
+              243.95
+            ],
+            [
+              "treinta",
+              243.95,
+              244.32
+            ],
+            [
+              "llegar",
+              244.32,
+              244.62
+            ],
+            [
+              "por",
+              244.62,
+              244.83
+            ],
+            [
+              "un",
+              244.83,
+              244.93
+            ],
+            [
+              "valor",
+              244.93,
+              245.19
+            ],
+            [
+              "de",
+              245.19,
+              245.47
+            ],
+            [
+              "diez",
+              245.47,
+              245.77
+            ],
+            [
+              "mil",
+              245.77,
+              245.99
+            ],
+            [
+              "pues",
+              245.99,
+              246.32
+            ],
+            [
+              "bueno",
+              249.82,
+              250.08
+            ],
+            [
+              "entonces",
+              250.33,
+              250.73
+            ],
+            [
+              "permite",
+              250.73,
+              251.07
+            ],
+            [
+              "un",
+              251.07,
+              251.21
+            ],
+            [
+              "momento",
+              251.21,
+              251.59
+            ],
+            [
+              "terminó",
+              251.59,
+              251.91
+            ],
+            [
+              "la",
+              251.91,
+              252.03
+            ],
+            [
+              "restauración",
+              252.03,
+              252.63
+            ]
+          ],
+          "confidence": 0.791,
+          "transcript": "pues una información adicional recuerde que en el momento que se puede llevar internet televisión y telefonía para el hogar de la mención del me treinta llegar por un valor de diez mil pues bueno entonces permite un momento terminó la restauración "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "ok",
+              254.09,
+              254.59
+            ]
+          ],
+          "confidence": 0.945,
+          "transcript": "ok "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              278.64,
+              279.01
+            ]
+          ],
+          "confidence": 0.543,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              317.37,
+              317.57
+            ]
+          ],
+          "confidence": 0.716,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 319.86,
+          "alternatives": [
+            {
+              "confidence": 0.901,
+              "word": "la"
+            }
+          ],
+          "end_time": 320.01
+        },
+        {
+          "start_time": 326.56,
+          "alternatives": [
+            {
+              "confidence": 0.9953,
+              "word": "que"
+            }
+          ],
+          "end_time": 326.68
+        },
+        {
+          "start_time": 326.68,
+          "alternatives": [
+            {
+              "confidence": 0.908,
+              "word": "nosotros"
+            }
+          ],
+          "end_time": 327.1
+        },
+        {
+          "start_time": 334.12,
+          "alternatives": [
+            {
+              "confidence": 0.9832,
+              "word": "móviles"
+            }
+          ],
+          "end_time": 334.51
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "la",
+              319.86,
+              320.01
+            ],
+            [
+              "mía",
+              321.99,
+              322.36
+            ],
+            [
+              "okay",
+              322.89,
+              323.54
+            ],
+            [
+              "en",
+              324.18,
+              324.31
+            ],
+            [
+              "este",
+              324.31,
+              324.5
+            ],
+            [
+              "momento",
+              324.5,
+              324.9
+            ],
+            [
+              "ya",
+              324.9,
+              325.03
+            ],
+            [
+              "hicimos",
+              325.03,
+              325.29
+            ],
+            [
+              "la",
+              325.29,
+              325.38
+            ],
+            [
+              "restauración",
+              325.38,
+              326.22
+            ],
+            [
+              "ahora",
+              326.22,
+              326.56
+            ],
+            [
+              "que",
+              326.56,
+              326.68
+            ],
+            [
+              "nosotros",
+              326.68,
+              327.1
+            ],
+            [
+              "llamamos",
+              327.71,
+              328.11
+            ],
+            [
+              "elecciones",
+              328.77,
+              329.57
+            ],
+            [
+              "acción",
+              329.57,
+              330.09
+            ],
+            [
+              "cuando",
+              332.09,
+              332.33
+            ],
+            [
+              "lo",
+              332.33,
+              332.45
+            ],
+            [
+              "reinicia",
+              332.45,
+              333.08
+            ],
+            [
+              "hípica",
+              333.16,
+              333.5
+            ],
+            [
+              "es",
+              333.5,
+              333.56
+            ],
+            [
+              "que",
+              333.56,
+              333.66
+            ],
+            [
+              "los",
+              333.66,
+              333.82
+            ],
+            [
+              "datos",
+              333.82,
+              334.12
+            ],
+            [
+              "móviles",
+              334.12,
+              334.51
+            ],
+            [
+              "encuentren",
+              334.51,
+              334.98
+            ],
+            [
+              "activos",
+              334.98,
+              335.4
+            ],
+            [
+              "para",
+              335.4,
+              335.54
+            ],
+            [
+              "aquí",
+              335.54,
+              335.73
+            ],
+            [
+              "para",
+              336.21,
+              336.47
+            ],
+            [
+              "nada",
+              336.47,
+              336.66
+            ],
+            [
+              "normal",
+              336.8,
+              337.26
+            ]
+          ],
+          "confidence": 0.67,
+          "transcript": "la mía okay en este momento ya hicimos la restauración ahora que nosotros llamamos elecciones acción cuando lo reinicia hípica es que los datos móviles encuentren activos para aquí para nada normal "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 339.02,
+          "alternatives": [
+            {
+              "confidence": 0.9703,
+              "word": "pero"
+            }
+          ],
+          "end_time": 339.2
+        },
+        {
+          "start_time": 339.26,
+          "alternatives": [
+            {
+              "confidence": 0.9679,
+              "word": "que"
+            }
+          ],
+          "end_time": 339.35
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "pero",
+              339.02,
+              339.2
+            ],
+            [
+              "es",
+              339.2,
+              339.26
+            ],
+            [
+              "que",
+              339.26,
+              339.35
+            ],
+            [
+              "resulta",
+              339.35,
+              339.73
+            ],
+            [
+              "que",
+              339.73,
+              339.81
+            ],
+            [
+              "eso",
+              339.81,
+              340.29
+            ],
+            [
+              "lo",
+              340.32,
+              340.56
+            ],
+            [
+              "hice",
+              340.56,
+              340.96
+            ],
+            [
+              "y",
+              342.89,
+              342.92
+            ],
+            [
+              "me",
+              342.92,
+              343.02
+            ],
+            [
+              "comunicó",
+              343.02,
+              343.36
+            ]
+          ],
+          "confidence": 0.684,
+          "transcript": "pero es que resulta que eso lo hice y me comunicó "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 345.87,
+          "alternatives": [
+            {
+              "confidence": 0.9228,
+              "word": "aquí"
+            }
+          ],
+          "end_time": 346.59
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "y",
+              344.74,
+              345.06
+            ],
+            [
+              "aquí",
+              345.87,
+              346.59
+            ],
+            [
+              "no",
+              347.39,
+              347.55
+            ],
+            [
+              "normal",
+              348.02,
+              348.29
+            ],
+            [
+              "al",
+              348.29,
+              348.46
+            ],
+            [
+              "internet",
+              348.46,
+              348.97
+            ],
+            [
+              "porque",
+              349.52,
+              349.84
+            ]
+          ],
+          "confidence": 0.784,
+          "transcript": "y aquí no normal al internet porque "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 351.94,
+          "alternatives": [
+            {
+              "confidence": 0.9121,
+              "word": "ya"
+            }
+          ],
+          "end_time": 352.44
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "ya",
+              351.94,
+              352.44
+            ],
+            [
+              "ves",
+              353.49,
+              353.71
+            ],
+            [
+              "si",
+              353.71,
+              354
+            ],
+            [
+              "esto",
+              354.12,
+              354.31
+            ],
+            [
+              "se",
+              354.31,
+              354.44
+            ],
+            [
+              "lo",
+              354.44,
+              354.6
+            ],
+            [
+              "mínimo",
+              354.6,
+              355.05
+            ],
+            [
+              "nueve",
+              355.05,
+              355.35
+            ],
+            [
+              "nuevamente",
+              355.97,
+              356.38
+            ],
+            [
+              "quedó",
+              356.38,
+              356.53
+            ],
+            [
+              "sin",
+              356.53,
+              356.67
+            ],
+            [
+              "internet",
+              356.67,
+              357.16
+            ]
+          ],
+          "confidence": 0.671,
+          "transcript": "ya ves si esto se lo mínimo nueve nuevamente quedó sin internet "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 358.8,
+          "alternatives": [
+            {
+              "confidence": 0.9433,
+              "word": "y"
+            }
+          ],
+          "end_time": 358.93
+        },
+        {
+          "start_time": 358.93,
+          "alternatives": [
+            {
+              "confidence": 0.9433,
+              "word": "los"
+            }
+          ],
+          "end_time": 359.05
+        },
+        {
+          "start_time": 359.05,
+          "alternatives": [
+            {
+              "confidence": 0.9705,
+              "word": "datos"
+            }
+          ],
+          "end_time": 359.33
+        },
+        {
+          "start_time": 359.33,
+          "alternatives": [
+            {
+              "confidence": 0.976,
+              "word": "móviles"
+            }
+          ],
+          "end_time": 359.71
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "cero",
+              358.49,
+              358.8
+            ],
+            [
+              "y",
+              358.8,
+              358.93
+            ],
+            [
+              "los",
+              358.93,
+              359.05
+            ],
+            [
+              "datos",
+              359.05,
+              359.33
+            ],
+            [
+              "móviles",
+              359.33,
+              359.71
+            ],
+            [
+              "en",
+              359.96,
+              360.07
+            ],
+            [
+              "activo",
+              360.07,
+              360.56
+            ]
+          ],
+          "confidence": 0.685,
+          "transcript": "cero y los datos móviles en activo "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "lo",
+              362.12,
+              362.24
+            ],
+            [
+              "tengo",
+              362.24,
+              362.48
+            ],
+            [
+              "tivo",
+              362.48,
+              362.81
+            ]
+          ],
+          "confidence": 0.882,
+          "transcript": "lo tengo tivo "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 368.89,
+          "alternatives": [
+            {
+              "confidence": 0.9417,
+              "word": "de"
+            }
+          ],
+          "end_time": 368.98
+        },
+        {
+          "start_time": 368.98,
+          "alternatives": [
+            {
+              "confidence": 0.9819,
+              "word": "las"
+            }
+          ],
+          "end_time": 369.11
+        },
+        {
+          "start_time": 369.11,
+          "alternatives": [
+            {
+              "confidence": 0.9436,
+              "word": "configuraciones"
+            }
+          ],
+          "end_time": 370.12
+        },
+        {
+          "start_time": 371.18,
+          "alternatives": [
+            {
+              "confidence": 0.9592,
+              "word": "hacer"
+            }
+          ],
+          "end_time": 371.41
+        },
+        {
+          "start_time": 371.41,
+          "alternatives": [
+            {
+              "confidence": 0.9593,
+              "word": "una"
+            }
+          ],
+          "end_time": 371.59
+        },
+        {
+          "start_time": 371.59,
+          "alternatives": [
+            {
+              "confidence": 0.9297,
+              "word": "prueba"
+            }
+          ],
+          "end_time": 371.87
+        },
+        {
+          "start_time": 371.87,
+          "alternatives": [
+            {
+              "confidence": 0.9503,
+              "word": "cruzada"
+            }
+          ],
+          "end_time": 372.46
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "donde",
+              367.3,
+              367.56
+            ],
+            [
+              "la",
+              367.56,
+              367.66
+            ],
+            [
+              "misma",
+              367.66,
+              367.93
+            ],
+            [
+              "inconformidad",
+              367.93,
+              368.6
+            ],
+            [
+              "después",
+              368.6,
+              368.89
+            ],
+            [
+              "de",
+              368.89,
+              368.98
+            ],
+            [
+              "las",
+              368.98,
+              369.11
+            ],
+            [
+              "configuraciones",
+              369.11,
+              370.12
+            ],
+            [
+              "de",
+              371.11,
+              371.18
+            ],
+            [
+              "hacer",
+              371.18,
+              371.41
+            ],
+            [
+              "una",
+              371.41,
+              371.59
+            ],
+            [
+              "prueba",
+              371.59,
+              371.87
+            ],
+            [
+              "cruzada",
+              371.87,
+              372.46
+            ]
+          ],
+          "confidence": 0.776,
+          "transcript": "donde la misma inconformidad después de las configuraciones de hacer una prueba cruzada "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 378.39,
+          "alternatives": [
+            {
+              "confidence": 0.9609,
+              "word": "me"
+            }
+          ],
+          "end_time": 378.46
+        },
+        {
+          "start_time": 378.46,
+          "alternatives": [
+            {
+              "confidence": 0.9674,
+              "word": "han"
+            }
+          ],
+          "end_time": 378.55
+        },
+        {
+          "start_time": 378.55,
+          "alternatives": [
+            {
+              "confidence": 0.9673,
+              "word": "dicho"
+            }
+          ],
+          "end_time": 378.78
+        },
+        {
+          "start_time": 378.78,
+          "alternatives": [
+            {
+              "confidence": 0.9746,
+              "word": "lo"
+            }
+          ],
+          "end_time": 378.88
+        },
+        {
+          "start_time": 378.88,
+          "alternatives": [
+            {
+              "confidence": 0.9851,
+              "word": "mismo"
+            }
+          ],
+          "end_time": 379.3
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "nombre",
+              374.6,
+              374.88
+            ],
+            [
+              "bagre",
+              374.88,
+              375.18
+            ],
+            [
+              "dadas",
+              375.18,
+              375.53
+            ],
+            [
+              "a",
+              377.5,
+              377.58
+            ],
+            [
+              "otro",
+              377.58,
+              377.84
+            ],
+            [
+              "celular",
+              377.84,
+              378.25
+            ],
+            [
+              "si",
+              378.25,
+              378.39
+            ],
+            [
+              "me",
+              378.39,
+              378.46
+            ],
+            [
+              "han",
+              378.46,
+              378.55
+            ],
+            [
+              "dicho",
+              378.55,
+              378.78
+            ],
+            [
+              "lo",
+              378.78,
+              378.88
+            ],
+            [
+              "mismo",
+              378.88,
+              379.3
+            ]
+          ],
+          "confidence": 0.785,
+          "transcript": "nombre bagre dadas a otro celular si me han dicho lo mismo "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 380.95,
+          "alternatives": [
+            {
+              "confidence": 0.9086,
+              "word": "señorías"
+            }
+          ],
+          "end_time": 381.46
+        },
+        {
+          "start_time": 384.38,
+          "alternatives": [
+            {
+              "confidence": 0.935,
+              "word": "nosotros"
+            }
+          ],
+          "end_time": 384.87
+        },
+        {
+          "start_time": 384.87,
+          "alternatives": [
+            {
+              "confidence": 0.9469,
+              "word": "estamos"
+            }
+          ],
+          "end_time": 385.35
+        },
+        {
+          "start_time": 385.45,
+          "alternatives": [
+            {
+              "confidence": 0.9966,
+              "word": "navegando"
+            }
+          ],
+          "end_time": 386.22
+        },
+        {
+          "start_time": 387.04,
+          "alternatives": [
+            {
+              "confidence": 0.9966,
+              "word": "con"
+            }
+          ],
+          "end_time": 387.29
+        },
+        {
+          "start_time": 387.29,
+          "alternatives": [
+            {
+              "confidence": 0.9964,
+              "word": "red"
+            }
+          ],
+          "end_time": 387.46
+        },
+        {
+          "start_time": 387.68,
+          "alternatives": [
+            {
+              "confidence": 0.9852,
+              "word": "creo"
+            }
+          ],
+          "end_time": 387.89
+        },
+        {
+          "start_time": 387.89,
+          "alternatives": [
+            {
+              "confidence": 0.9767,
+              "word": "que"
+            }
+          ],
+          "end_time": 388.19
+        },
+        {
+          "start_time": 390.41,
+          "alternatives": [
+            {
+              "confidence": 0.9614,
+              "word": "cuatro"
+            }
+          ],
+          "end_time": 390.76
+        },
+        {
+          "start_time": 398.54,
+          "alternatives": [
+            {
+              "confidence": 0.9804,
+              "word": "tipo"
+            }
+          ],
+          "end_time": 398.78
+        },
+        {
+          "start_time": 398.78,
+          "alternatives": [
+            {
+              "confidence": 0.9804,
+              "word": "de"
+            }
+          ],
+          "end_time": 398.84
+        },
+        {
+          "start_time": 400.93,
+          "alternatives": [
+            {
+              "confidence": 0.9663,
+              "word": "mente"
+            }
+          ],
+          "end_time": 401.42
+        },
+        {
+          "start_time": 403.36,
+          "alternatives": [
+            {
+              "confidence": 0.9132,
+              "word": "mire"
+            }
+          ],
+          "end_time": 403.58
+        },
+        {
+          "start_time": 405.31,
+          "alternatives": [
+            {
+              "confidence": 0.9701,
+              "word": "acá"
+            }
+          ],
+          "end_time": 405.71
+        },
+        {
+          "start_time": 406.03,
+          "alternatives": [
+            {
+              "confidence": 0.9297,
+              "word": "de"
+            }
+          ],
+          "end_time": 406.22
+        },
+        {
+          "start_time": 406.22,
+          "alternatives": [
+            {
+              "confidence": 0.929,
+              "word": "forma"
+            }
+          ],
+          "end_time": 406.67
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "señorías",
+              380.95,
+              381.46
+            ],
+            [
+              "también",
+              382.7,
+              383.16
+            ],
+            [
+              "sí",
+              383.16,
+              383.49
+            ],
+            [
+              "porque",
+              383.52,
+              383.82
+            ],
+            [
+              "recuerden",
+              383.82,
+              384.29
+            ],
+            [
+              "que",
+              384.29,
+              384.38
+            ],
+            [
+              "nosotros",
+              384.38,
+              384.87
+            ],
+            [
+              "estamos",
+              384.87,
+              385.35
+            ],
+            [
+              "navegando",
+              385.45,
+              386.22
+            ],
+            [
+              "con",
+              387.04,
+              387.29
+            ],
+            [
+              "red",
+              387.29,
+              387.46
+            ],
+            [
+              "creo",
+              387.68,
+              387.89
+            ],
+            [
+              "que",
+              387.89,
+              388.19
+            ],
+            [
+              "cuatro",
+              390.41,
+              390.76
+            ],
+            [
+              "activo",
+              392.51,
+              393.04
+            ],
+            [
+              "sí",
+              393.04,
+              393.34
+            ],
+            [
+              "pero",
+              393.57,
+              393.73
+            ],
+            [
+              "supongo",
+              393.73,
+              394.18
+            ],
+            [
+              "que",
+              395.89,
+              396.21
+            ],
+            [
+              "bueno",
+              396.58,
+              396.81
+            ],
+            [
+              "h",
+              396.81,
+              397.22
+            ],
+            [
+              "dinero",
+              397.71,
+              398.11
+            ],
+            [
+              "con",
+              398.11,
+              398.29
+            ],
+            [
+              "algún",
+              398.29,
+              398.54
+            ],
+            [
+              "tipo",
+              398.54,
+              398.78
+            ],
+            [
+              "de",
+              398.78,
+              398.84
+            ],
+            [
+              "inconsistencia",
+              398.84,
+              399.75
+            ],
+            [
+              "en",
+              400.86,
+              400.93
+            ],
+            [
+              "mente",
+              400.93,
+              401.42
+            ],
+            [
+              "que",
+              401.9,
+              402.05
+            ],
+            [
+              "te",
+              402.19,
+              402.33
+            ],
+            [
+              "pagan",
+              402.33,
+              402.73
+            ],
+            [
+              "pues",
+              403.18,
+              403.36
+            ],
+            [
+              "mire",
+              403.36,
+              403.58
+            ],
+            [
+              "yo",
+              403.58,
+              403.69
+            ],
+            [
+              "una",
+              404.36,
+              404.49
+            ],
+            [
+              "restauración",
+              404.49,
+              405.09
+            ],
+            [
+              "desde",
+              405.09,
+              405.31
+            ],
+            [
+              "acá",
+              405.31,
+              405.71
+            ],
+            [
+              "de",
+              406.03,
+              406.22
+            ],
+            [
+              "forma",
+              406.22,
+              406.67
+            ]
+          ],
+          "confidence": 0.831,
+          "transcript": "señorías también sí porque recuerden que nosotros estamos navegando con red creo que cuatro activo sí pero supongo que bueno h dinero con algún tipo de inconsistencia en mente que te pagan pues mire yo una restauración desde acá de forma "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 408.27,
+          "alternatives": [
+            {
+              "confidence": 0.9743,
+              "word": "directa"
+            }
+          ],
+          "end_time": 408.96
+        },
+        {
+          "start_time": 408.96,
+          "alternatives": [
+            {
+              "confidence": 0.9395,
+              "word": "y"
+            }
+          ],
+          "end_time": 409.18
+        },
+        {
+          "start_time": 409.53,
+          "alternatives": [
+            {
+              "confidence": 0.934,
+              "word": "con"
+            }
+          ],
+          "end_time": 409.71
+        },
+        {
+          "start_time": 409.71,
+          "alternatives": [
+            {
+              "confidence": 0.9296,
+              "word": "cuatro"
+            }
+          ],
+          "end_time": 410.07
+        },
+        {
+          "start_time": 417.75,
+          "alternatives": [
+            {
+              "confidence": 0.9276,
+              "word": "lo"
+            }
+          ],
+          "end_time": 417.89
+        },
+        {
+          "start_time": 417.89,
+          "alternatives": [
+            {
+              "confidence": 0.913,
+              "word": "apague"
+            }
+          ],
+          "end_time": 418.21
+        },
+        {
+          "start_time": 419.12,
+          "alternatives": [
+            {
+              "confidence": 0.943,
+              "word": "menos"
+            }
+          ],
+          "end_time": 419.35
+        },
+        {
+          "start_time": 419.35,
+          "alternatives": [
+            {
+              "confidence": 0.9433,
+              "word": "por"
+            }
+          ],
+          "end_time": 419.52
+        },
+        {
+          "start_time": 419.52,
+          "alternatives": [
+            {
+              "confidence": 0.9643,
+              "word": "unos"
+            }
+          ],
+          "end_time": 419.77
+        },
+        {
+          "start_time": 419.77,
+          "alternatives": [
+            {
+              "confidence": 0.9435,
+              "word": "diez"
+            }
+          ],
+          "end_time": 419.97
+        },
+        {
+          "start_time": 420.05,
+          "alternatives": [
+            {
+              "confidence": 0.9609,
+              "word": "quince"
+            }
+          ],
+          "end_time": 420.36
+        },
+        {
+          "start_time": 420.68,
+          "alternatives": [
+            {
+              "confidence": 0.94,
+              "word": "segundos"
+            }
+          ],
+          "end_time": 421.29
+        },
+        {
+          "start_time": 422.79,
+          "alternatives": [
+            {
+              "confidence": 0.9328,
+              "word": "lo"
+            }
+          ],
+          "end_time": 422.89
+        },
+        {
+          "start_time": 422.89,
+          "alternatives": [
+            {
+              "confidence": 0.9405,
+              "word": "entienda"
+            }
+          ],
+          "end_time": 423.51
+        },
+        {
+          "start_time": 423.51,
+          "alternatives": [
+            {
+              "confidence": 0.9938,
+              "word": "y"
+            }
+          ],
+          "end_time": 423.67
+        },
+        {
+          "start_time": 423.67,
+          "alternatives": [
+            {
+              "confidence": 0.9909,
+              "word": "verifique"
+            }
+          ],
+          "end_time": 424.12
+        },
+        {
+          "start_time": 424.24,
+          "alternatives": [
+            {
+              "confidence": 0.9833,
+              "word": "los"
+            }
+          ],
+          "end_time": 424.38
+        },
+        {
+          "start_time": 424.38,
+          "alternatives": [
+            {
+              "confidence": 0.979,
+              "word": "datos"
+            }
+          ],
+          "end_time": 424.67
+        },
+        {
+          "start_time": 424.67,
+          "alternatives": [
+            {
+              "confidence": 0.9823,
+              "word": "móviles"
+            }
+          ],
+          "end_time": 425.01
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "directa",
+              408.27,
+              408.96
+            ],
+            [
+              "y",
+              408.96,
+              409.18
+            ],
+            [
+              "lo",
+              409.18,
+              409.3
+            ],
+            [
+              "dije",
+              409.3,
+              409.53
+            ],
+            [
+              "con",
+              409.53,
+              409.71
+            ],
+            [
+              "cuatro",
+              409.71,
+              410.07
+            ],
+            [
+              "sí",
+              410.3,
+              410.61
+            ],
+            [
+              "que",
+              411.74,
+              411.91
+            ],
+            [
+              "verificar",
+              411.91,
+              412.49
+            ],
+            [
+              "reiniciando",
+              413.47,
+              414.19
+            ],
+            [
+              "el",
+              414.19,
+              414.27
+            ],
+            [
+              "sistema",
+              414.44,
+              414.82
+            ],
+            [
+              "solamente",
+              415.08,
+              415.55
+            ],
+            [
+              "la",
+              415.55,
+              415.64
+            ],
+            [
+              "rendición",
+              415.64,
+              416.15
+            ],
+            [
+              "desde",
+              416.32,
+              417.08
+            ],
+            [
+              "recomiendo",
+              417.08,
+              417.63
+            ],
+            [
+              "que",
+              417.63,
+              417.75
+            ],
+            [
+              "lo",
+              417.75,
+              417.89
+            ],
+            [
+              "apague",
+              417.89,
+              418.19
+            ],
+            [
+              "el",
+              418.19,
+              418.27
+            ],
+            [
+              "equipo",
+              418.27,
+              418.57
+            ],
+            [
+              "más",
+              418.87,
+              419.06
+            ],
+            [
+              "o",
+              419.06,
+              419.12
+            ],
+            [
+              "menos",
+              419.12,
+              419.35
+            ],
+            [
+              "por",
+              419.35,
+              419.52
+            ],
+            [
+              "unos",
+              419.52,
+              419.77
+            ],
+            [
+              "diez",
+              419.77,
+              419.97
+            ],
+            [
+              "a",
+              419.97,
+              420.05
+            ],
+            [
+              "quince",
+              420.05,
+              420.36
+            ],
+            [
+              "segundos",
+              420.68,
+              421.29
+            ],
+            [
+              "ingrese",
+              422.31,
+              422.79
+            ],
+            [
+              "lo",
+              422.79,
+              422.89
+            ],
+            [
+              "entienda",
+              422.89,
+              423.51
+            ],
+            [
+              "y",
+              423.51,
+              423.67
+            ],
+            [
+              "verifique",
+              423.67,
+              424.12
+            ],
+            [
+              "que",
+              424.12,
+              424.24
+            ],
+            [
+              "los",
+              424.24,
+              424.38
+            ],
+            [
+              "datos",
+              424.38,
+              424.67
+            ],
+            [
+              "móviles",
+              424.67,
+              425.01
+            ],
+            [
+              "encuentren",
+              425.01,
+              425.44
+            ],
+            [
+              "aquí",
+              425.44,
+              425.68
+            ]
+          ],
+          "confidence": 0.767,
+          "transcript": "directa y lo dije con cuatro sí que verificar reiniciando el sistema solamente la rendición desde recomiendo que lo apague el equipo más o menos por unos diez a quince segundos ingrese lo entienda y verifique que los datos móviles encuentren aquí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 427.76,
+          "alternatives": [
+            {
+              "confidence": 0.9351,
+              "word": "ok"
+            }
+          ],
+          "end_time": 428.23
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "ok",
+              427.76,
+              428.23
+            ]
+          ],
+          "confidence": 0.949,
+          "transcript": "ok "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 430.24,
+          "alternatives": [
+            {
+              "confidence": 0.9758,
+              "word": "sí"
+            }
+          ],
+          "end_time": 430.42
+        },
+        {
+          "start_time": 430.42,
+          "alternatives": [
+            {
+              "confidence": 0.934,
+              "word": "señor"
+            }
+          ],
+          "end_time": 430.89
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              430.24,
+              430.42
+            ],
+            [
+              "señor",
+              430.42,
+              430.89
+            ]
+          ],
+          "confidence": 0.928,
+          "transcript": "sí señor "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 435.02,
+          "alternatives": [
+            {
+              "confidence": 0.9733,
+              "word": "ayudar"
+            }
+          ],
+          "end_time": 435.27
+        },
+        {
+          "start_time": 435.27,
+          "alternatives": [
+            {
+              "confidence": 0.9972,
+              "word": "en"
+            }
+          ],
+          "end_time": 435.38
+        },
+        {
+          "start_time": 435.38,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "algo"
+            }
+          ],
+          "end_time": 435.61
+        },
+        {
+          "start_time": 435.61,
+          "alternatives": [
+            {
+              "confidence": 0.962,
+              "word": "más"
+            }
+          ],
+          "end_time": 435.98
+        },
+        {
+          "start_time": 437.84,
+          "alternatives": [
+            {
+              "confidence": 0.954,
+              "word": "el"
+            }
+          ],
+          "end_time": 438.02
+        },
+        {
+          "start_time": 438.02,
+          "alternatives": [
+            {
+              "confidence": 0.9541,
+              "word": "único"
+            }
+          ],
+          "end_time": 438.26
+        },
+        {
+          "start_time": 438.26,
+          "alternatives": [
+            {
+              "confidence": 0.979,
+              "word": "problema"
+            }
+          ],
+          "end_time": 438.57
+        },
+        {
+          "start_time": 438.57,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "que"
+            }
+          ],
+          "end_time": 438.68
+        },
+        {
+          "start_time": 438.68,
+          "alternatives": [
+            {
+              "confidence": 0.9964,
+              "word": "tengo"
+            }
+          ],
+          "end_time": 439.03
+        },
+        {
+          "start_time": 443.25,
+          "alternatives": [
+            {
+              "confidence": 0.9613,
+              "word": "que"
+            }
+          ],
+          "end_time": 443.41
+        },
+        {
+          "start_time": 448.71,
+          "alternatives": [
+            {
+              "confidence": 0.9762,
+              "word": "llamada"
+            }
+          ],
+          "end_time": 449.07
+        },
+        {
+          "start_time": 452.95,
+          "alternatives": [
+            {
+              "confidence": 0.994,
+              "word": "día"
+            }
+          ],
+          "end_time": 453.18
+        },
+        {
+          "start_time": 453.18,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "de"
+            }
+          ],
+          "end_time": 453.26
+        },
+        {
+          "start_time": 453.26,
+          "alternatives": [
+            {
+              "confidence": 0.9992,
+              "word": "hoy"
+            }
+          ],
+          "end_time": 453.4
+        },
+        {
+          "start_time": 455.56,
+          "alternatives": [
+            {
+              "confidence": 0.988,
+              "word": "gracias"
+            }
+          ],
+          "end_time": 456.02
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              432.41,
+              432.57
+            ],
+            [
+              "le",
+              434.73,
+              434.87
+            ],
+            [
+              "puedo",
+              434.87,
+              435.02
+            ],
+            [
+              "ayudar",
+              435.02,
+              435.27
+            ],
+            [
+              "en",
+              435.27,
+              435.38
+            ],
+            [
+              "algo",
+              435.38,
+              435.61
+            ],
+            [
+              "más",
+              435.61,
+              435.98
+            ],
+            [
+              "es",
+              437.24,
+              437.35
+            ],
+            [
+              "el",
+              437.84,
+              438.02
+            ],
+            [
+              "único",
+              438.02,
+              438.26
+            ],
+            [
+              "problema",
+              438.26,
+              438.57
+            ],
+            [
+              "que",
+              438.57,
+              438.68
+            ],
+            [
+              "tengo",
+              438.68,
+              439.03
+            ],
+            [
+              "que",
+              443.25,
+              443.41
+            ],
+            [
+              "termine",
+              443.41,
+              443.88
+            ],
+            [
+              "pagaré",
+              443.88,
+              444.18
+            ],
+            [
+              "entonces",
+              444.18,
+              444.48
+            ],
+            [
+              "una",
+              444.48,
+              444.61
+            ],
+            [
+              "excelente",
+              444.61,
+              445.05
+            ],
+            [
+              "red",
+              445.05,
+              445.22
+            ],
+            [
+              "tarde",
+              445.47,
+              445.81
+            ],
+            [
+              "feliz",
+              445.81,
+              446.12
+            ],
+            [
+              "recuerden",
+              446.85,
+              447.3
+            ],
+            [
+              "que",
+              447.3,
+              447.39
+            ],
+            [
+              "posiblemente",
+              447.39,
+              448.11
+            ],
+            [
+              "finalizando",
+              448.11,
+              448.63
+            ],
+            [
+              "la",
+              448.63,
+              448.71
+            ],
+            [
+              "llamada",
+              448.71,
+              449.1
+            ],
+            [
+              "cuesta",
+              449.95,
+              450.44
+            ],
+            [
+              "de",
+              451.25,
+              451.38
+            ],
+            [
+              "vapor",
+              451.38,
+              451.71
+            ],
+            [
+              "y",
+              451.71,
+              451.77
+            ],
+            [
+              "caleta",
+              451.77,
+              452.26
+            ],
+            [
+              "la",
+              452.26,
+              452.36
+            ],
+            [
+              "atención",
+              452.36,
+              452.77
+            ],
+            [
+              "del",
+              452.77,
+              452.95
+            ],
+            [
+              "día",
+              452.95,
+              453.18
+            ],
+            [
+              "de",
+              453.18,
+              453.26
+            ],
+            [
+              "hoy",
+              453.26,
+              453.4
+            ],
+            [
+              "qué",
+              453.4,
+              453.52
+            ],
+            [
+              "sé",
+              453.52,
+              453.7
+            ],
+            [
+              "muy",
+              453.7,
+              453.95
+            ],
+            [
+              "bien",
+              453.95,
+              454.24
+            ],
+            [
+              "muchas",
+              455.3,
+              455.56
+            ],
+            [
+              "gracias",
+              455.56,
+              456.02
+            ],
+            [
+              "con",
+              456.4,
+              456.63
+            ],
+            [
+              "monstruos",
+              456.63,
+              457.23
+            ],
+            [
+              "hasta",
+              457.23,
+              457.44
+            ],
+            [
+              "luego",
+              457.44,
+              457.9
+            ]
+          ],
+          "confidence": 0.791,
+          "transcript": "sí le puedo ayudar en algo más es el único problema que tengo que termine pagaré entonces una excelente red tarde feliz recuerden que posiblemente finalizando la llamada cuesta de vapor y caleta la atención del día de hoy qué sé muy bien muchas gracias con monstruos hasta luego "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}

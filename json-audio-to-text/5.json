@@ -1,0 +1,2661 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "muy",
+              1.34,
+              1.51
+            ],
+            [
+              "buenas",
+              1.51,
+              1.74
+            ],
+            [
+              "noches",
+              1.74,
+              2.26
+            ]
+          ],
+          "confidence": 0.9,
+          "transcript": "muy buenas noches "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 5.01,
+          "alternatives": [
+            {
+              "confidence": 0.9596,
+              "word": "sí"
+            }
+          ],
+          "end_time": 5.31
+        },
+        {
+          "start_time": 5.31,
+          "alternatives": [
+            {
+              "confidence": 0.9596,
+              "word": "buenas"
+            }
+          ],
+          "end_time": 5.7
+        },
+        {
+          "start_time": 5.7,
+          "alternatives": [
+            {
+              "confidence": 0.9597,
+              "word": "noches"
+            }
+          ],
+          "end_time": 6.15
+        },
+        {
+          "start_time": 6.68,
+          "alternatives": [
+            {
+              "confidence": 0.948,
+              "word": "movistar"
+            }
+          ],
+          "end_time": 7.32
+        },
+        {
+          "start_time": 8.21,
+          "alternatives": [
+            {
+              "confidence": 0.9031,
+              "word": "con"
+            }
+          ],
+          "end_time": 8.37
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              5.01,
+              5.31
+            ],
+            [
+              "buenas",
+              5.31,
+              5.7
+            ],
+            [
+              "noches",
+              5.7,
+              6.15
+            ],
+            [
+              "bienvenido",
+              6.15,
+              6.68
+            ],
+            [
+              "movistar",
+              6.68,
+              7.32
+            ],
+            [
+              "hablar",
+              7.32,
+              7.67
+            ],
+            [
+              "con",
+              7.67,
+              7.81
+            ],
+            [
+              "él",
+              7.81,
+              7.89
+            ],
+            [
+              "se",
+              7.89,
+              8.01
+            ],
+            [
+              "van",
+              8.01,
+              8.21
+            ],
+            [
+              "con",
+              8.21,
+              8.37
+            ],
+            [
+              "quién",
+              8.37,
+              8.58
+            ],
+            [
+              "hablo",
+              8.58,
+              8.99
+            ]
+          ],
+          "confidence": 0.83,
+          "transcript": "sí buenas noches bienvenido movistar hablar con él se van con quién hablo "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 10.51,
+          "alternatives": [
+            {
+              "confidence": 0.9143,
+              "word": "antes"
+            }
+          ],
+          "end_time": 10.89
+        },
+        {
+          "start_time": 11.25,
+          "alternatives": [
+            {
+              "confidence": 0.9144,
+              "word": "señor"
+            }
+          ],
+          "end_time": 11.52
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "antes",
+              10.51,
+              10.89
+            ],
+            [
+              "señor",
+              11.25,
+              11.52
+            ],
+            [
+              "robe",
+              11.52,
+              11.76
+            ],
+            [
+              "iniesta",
+              11.76,
+              12.01
+            ],
+            [
+              "enamoré",
+              12.01,
+              12.5
+            ],
+            [
+              "confirmarme",
+              12.5,
+              13.15
+            ],
+            [
+              "en",
+              13.15,
+              13.22
+            ],
+            [
+              "la",
+              13.22,
+              13.29
+            ],
+            [
+              "línea",
+              13.29,
+              13.66
+            ],
+            [
+              "consultar",
+              13.66,
+              14.5
+            ]
+          ],
+          "confidence": 0.646,
+          "transcript": "antes señor robe iniesta enamoré confirmarme en la línea consultar "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 15.75,
+          "alternatives": [
+            {
+              "confidence": 0.9739,
+              "word": "la"
+            }
+          ],
+          "end_time": 15.88
+        },
+        {
+          "start_time": 16.92,
+          "alternatives": [
+            {
+              "confidence": 0.9093,
+              "word": "noventa"
+            }
+          ],
+          "end_time": 17.27
+        },
+        {
+          "start_time": 17.27,
+          "alternatives": [
+            {
+              "confidence": 0.9327,
+              "word": "y"
+            }
+          ],
+          "end_time": 17.36
+        },
+        {
+          "start_time": 17.36,
+          "alternatives": [
+            {
+              "confidence": 0.9328,
+              "word": "tres"
+            }
+          ],
+          "end_time": 17.68
+        },
+        {
+          "start_time": 17.68,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "veintidós"
+            }
+          ],
+          "end_time": 18.19
+        },
+        {
+          "start_time": 18.19,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 18.44
+        },
+        {
+          "start_time": 18.44,
+          "alternatives": [
+            {
+              "confidence": 0.9683,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 18.69
+        },
+        {
+          "start_time": 18.69,
+          "alternatives": [
+            {
+              "confidence": 0.954,
+              "word": "catorce"
+            }
+          ],
+          "end_time": 19.27
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "la",
+              15.75,
+              15.88
+            ],
+            [
+              "línea",
+              15.88,
+              16.19
+            ],
+            [
+              "noventa",
+              16.92,
+              17.27
+            ],
+            [
+              "y",
+              17.27,
+              17.36
+            ],
+            [
+              "tres",
+              17.36,
+              17.68
+            ],
+            [
+              "veintidós",
+              17.68,
+              18.19
+            ],
+            [
+              "nueve",
+              18.19,
+              18.44
+            ],
+            [
+              "nueve",
+              18.44,
+              18.69
+            ],
+            [
+              "catorce",
+              18.69,
+              19.27
+            ]
+          ],
+          "confidence": 0.989,
+          "transcript": "la línea noventa y tres veintidós nueve nueve catorce "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 21.82,
+          "alternatives": [
+            {
+              "confidence": 0.9523,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 22.11
+        },
+        {
+          "start_time": 22.75,
+          "alternatives": [
+            {
+              "confidence": 0.9524,
+              "word": "cuatro"
+            }
+          ],
+          "end_time": 23.23
+        },
+        {
+          "start_time": 23.23,
+          "alternatives": [
+            {
+              "confidence": 0.9669,
+              "word": "cinco"
+            }
+          ],
+          "end_time": 23.6
+        },
+        {
+          "start_time": 23.6,
+          "alternatives": [
+            {
+              "confidence": 0.9639,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 24.09
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "nueve",
+              21.82,
+              22.11
+            ],
+            [
+              "nueve",
+              22.11,
+              22.59
+            ],
+            [
+              "cuatro",
+              22.75,
+              23.23
+            ],
+            [
+              "cinco",
+              23.23,
+              23.6
+            ],
+            [
+              "nueve",
+              23.6,
+              24.09
+            ]
+          ],
+          "confidence": 0.904,
+          "transcript": "nueve nueve cuatro cinco nueve "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 25.09,
+          "alternatives": [
+            {
+              "confidence": 0.9697,
+              "word": "nueve"
+            }
+          ],
+          "end_time": 25.42
+        },
+        {
+          "start_time": 25.42,
+          "alternatives": [
+            {
+              "confidence": 0.9698,
+              "word": "dos"
+            }
+          ],
+          "end_time": 25.71
+        },
+        {
+          "start_time": 25.71,
+          "alternatives": [
+            {
+              "confidence": 0.9698,
+              "word": "tres"
+            }
+          ],
+          "end_time": 26.02
+        },
+        {
+          "start_time": 26.02,
+          "alternatives": [
+            {
+              "confidence": 0.9829,
+              "word": "seis"
+            }
+          ],
+          "end_time": 26.62
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "nueve",
+              25.09,
+              25.42
+            ],
+            [
+              "dos",
+              25.42,
+              25.71
+            ],
+            [
+              "tres",
+              25.71,
+              26.02
+            ],
+            [
+              "seis",
+              26.02,
+              26.62
+            ]
+          ],
+          "confidence": 0.968,
+          "transcript": "nueve dos tres seis "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 29.45,
+          "alternatives": [
+            {
+              "confidence": 0.9849,
+              "word": "otro"
+            }
+          ],
+          "end_time": 29.71
+        },
+        {
+          "start_time": 31.55,
+          "alternatives": [
+            {
+              "confidence": 0.9503,
+              "word": "momento"
+            }
+          ],
+          "end_time": 31.97
+        },
+        {
+          "start_time": 32.9,
+          "alternatives": [
+            {
+              "confidence": 0.9071,
+              "word": "claro"
+            }
+          ],
+          "end_time": 33.33
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "otro",
+              29.45,
+              29.71
+            ],
+            [
+              "momento",
+              31.55,
+              31.97
+            ],
+            [
+              "sí",
+              32.41,
+              32.68
+            ],
+            [
+              "claro",
+              32.9,
+              33.33
+            ],
+            [
+              "cuál",
+              34.22,
+              34.48
+            ],
+            [
+              "es",
+              34.48,
+              34.57
+            ],
+            [
+              "su",
+              34.57,
+              34.64
+            ],
+            [
+              "consulta",
+              34.64,
+              35.29
+            ]
+          ],
+          "confidence": 0.907,
+          "transcript": "otro momento sí claro cuál es su consulta "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 36.57,
+          "alternatives": [
+            {
+              "confidence": 0.9165,
+              "word": "el"
+            }
+          ],
+          "end_time": 36.66
+        },
+        {
+          "start_time": 36.66,
+          "alternatives": [
+            {
+              "confidence": 0.9031,
+              "word": "teléfono"
+            }
+          ],
+          "end_time": 37.28
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "el",
+              36.57,
+              36.66
+            ],
+            [
+              "teléfono",
+              36.66,
+              37.28
+            ],
+            [
+              "me",
+              37.28,
+              37.4
+            ]
+          ],
+          "confidence": 0.834,
+          "transcript": "el teléfono me "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 38.31,
+          "alternatives": [
+            {
+              "confidence": 0.9929,
+              "word": "bien"
+            }
+          ],
+          "end_time": 38.52
+        },
+        {
+          "start_time": 38.52,
+          "alternatives": [
+            {
+              "confidence": 0.9838,
+              "word": "peligroso"
+            }
+          ],
+          "end_time": 39.03
+        },
+        {
+          "start_time": 39.03,
+          "alternatives": [
+            {
+              "confidence": 0.9697,
+              "word": "el"
+            }
+          ],
+          "end_time": 39.1
+        },
+        {
+          "start_time": 39.36,
+          "alternatives": [
+            {
+              "confidence": 0.9751,
+              "word": "que"
+            }
+          ],
+          "end_time": 39.46
+        },
+        {
+          "start_time": 39.46,
+          "alternatives": [
+            {
+              "confidence": 0.9751,
+              "word": "tengo"
+            }
+          ],
+          "end_time": 39.81
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "bien",
+              38.31,
+              38.52
+            ],
+            [
+              "peligroso",
+              38.52,
+              39.03
+            ],
+            [
+              "el",
+              39.03,
+              39.1
+            ],
+            [
+              "pin",
+              39.1,
+              39.36
+            ],
+            [
+              "que",
+              39.36,
+              39.46
+            ],
+            [
+              "tengo",
+              39.46,
+              39.81
+            ],
+            [
+              "en",
+              39.81,
+              39.87
+            ],
+            [
+              "el",
+              39.87,
+              40.03
+            ],
+            [
+              "chip",
+              41.51,
+              41.81
+            ],
+            [
+              "y",
+              41.81,
+              41.98
+            ],
+            [
+              "no",
+              41.98,
+              42.07
+            ],
+            [
+              "me",
+              42.07,
+              42.15
+            ],
+            [
+              "lo",
+              42.15,
+              42.23
+            ],
+            [
+              "reconoce",
+              42.23,
+              42.64
+            ],
+            [
+              "pero",
+              42.94,
+              43.66
+            ],
+            [
+              "en",
+              43.66,
+              43.74
+            ],
+            [
+              "camilla",
+              43.74,
+              44.06
+            ],
+            [
+              "revisar",
+              44.06,
+              44.48
+            ]
+          ],
+          "confidence": 0.679,
+          "transcript": "bien peligroso el pin que tengo en el chip y no me lo reconoce pero en camilla revisar "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              62.15,
+              62.4
+            ]
+          ],
+          "confidence": 0.661,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              83.11,
+              83.27
+            ]
+          ],
+          "confidence": 0.763,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              87.48,
+              87.68
+            ]
+          ],
+          "confidence": 0.862,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              92.76,
+              92.96
+            ]
+          ],
+          "confidence": 0.711,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 95.6,
+          "alternatives": [
+            {
+              "confidence": 0.9116,
+              "word": "nombre"
+            }
+          ],
+          "end_time": 95.89
+        },
+        {
+          "start_time": 95.89,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "por"
+            }
+          ],
+          "end_time": 96.05
+        },
+        {
+          "start_time": 96.05,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "favor"
+            }
+          ],
+          "end_time": 96.54
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "m",
+              93.89,
+              94.35
+            ],
+            [
+              "caballero",
+              94.6,
+              94.97
+            ],
+            [
+              "me",
+              94.97,
+              95.1
+            ],
+            [
+              "confirman",
+              95.1,
+              95.51
+            ],
+            [
+              "su",
+              95.51,
+              95.6
+            ],
+            [
+              "nombre",
+              95.6,
+              95.89
+            ],
+            [
+              "por",
+              95.89,
+              96.05
+            ],
+            [
+              "favor",
+              96.05,
+              96.54
+            ]
+          ],
+          "confidence": 0.703,
+          "transcript": "m caballero me confirman su nombre por favor "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 100.03,
+          "alternatives": [
+            {
+              "confidence": 0.9903,
+              "word": "código"
+            }
+          ],
+          "end_time": 100.43
+        },
+        {
+          "start_time": 100.43,
+          "alternatives": [
+            {
+              "confidence": 0.9902,
+              "word": "pin"
+            }
+          ],
+          "end_time": 100.81
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "wei",
+              97.38,
+              97.66
+            ],
+            [
+              "interés",
+              98.14,
+              98.67
+            ],
+            [
+              "ya",
+              99.09,
+              99.37
+            ],
+            [
+              "que",
+              99.81,
+              99.9
+            ],
+            [
+              "el",
+              99.9,
+              100.03
+            ],
+            [
+              "código",
+              100.03,
+              100.43
+            ],
+            [
+              "pin",
+              100.43,
+              100.81
+            ],
+            [
+              "código",
+              101.18,
+              101.57
+            ],
+            [
+              "pin",
+              101.57,
+              101.86
+            ],
+            [
+              "no",
+              103.1,
+              103.34
+            ],
+            [
+              "le",
+              103.34,
+              103.55
+            ],
+            [
+              "interesa",
+              103.55,
+              104.07
+            ],
+            [
+              "cuál",
+              104.59,
+              104.81
+            ],
+            [
+              "código",
+              104.81,
+              105.18
+            ]
+          ],
+          "confidence": 0.79,
+          "transcript": "wei interés ya que el código pin código pin no le interesa cuál código "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "caballeros",
+              111,
+              111.49
+            ],
+            [
+              "del",
+              111.49,
+              111.73
+            ],
+            [
+              "código",
+              111.73,
+              112.09
+            ],
+            [
+              "pin",
+              112.09,
+              112.31
+            ],
+            [
+              "que",
+              112.31,
+              112.4
+            ],
+            [
+              "me",
+              112.4,
+              112.49
+            ],
+            [
+              "aparece",
+              112.49,
+              112.82
+            ],
+            [
+              "aquí",
+              112.82,
+              112.99
+            ],
+            [
+              "registrados",
+              112.99,
+              113.58
+            ],
+            [
+              "de",
+              113.58,
+              113.65
+            ],
+            [
+              "aquí",
+              113.65,
+              113.8
+            ],
+            [
+              "es",
+              113.8,
+              113.88
+            ],
+            [
+              "el",
+              113.88,
+              113.98
+            ],
+            [
+              "genérico",
+              113.98,
+              114.7
+            ]
+          ],
+          "confidence": 0.682,
+          "transcript": "caballeros del código pin que me aparece aquí registrados de aquí es el genérico "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "perdón",
+              116.11,
+              116.52
+            ]
+          ],
+          "confidence": 0.814,
+          "transcript": "perdón "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "tengo",
+              117.88,
+              118.28
+            ],
+            [
+              "el",
+              119.35,
+              119.44
+            ],
+            [
+              "chef",
+              119.44,
+              120.18
+            ]
+          ],
+          "confidence": 0.769,
+          "transcript": "tengo el chef "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 124.59,
+          "alternatives": [
+            {
+              "confidence": 0.9022,
+              "word": "que"
+            }
+          ],
+          "end_time": 124.67
+        },
+        {
+          "start_time": 124.67,
+          "alternatives": [
+            {
+              "confidence": 0.9655,
+              "word": "ingresarlo"
+            }
+          ],
+          "end_time": 125.22
+        },
+        {
+          "start_time": 125.22,
+          "alternatives": [
+            {
+              "confidence": 0.9633,
+              "word": "varias"
+            }
+          ],
+          "end_time": 125.49
+        },
+        {
+          "start_time": 125.49,
+          "alternatives": [
+            {
+              "confidence": 0.9609,
+              "word": "veces"
+            }
+          ],
+          "end_time": 125.94
+        },
+        {
+          "start_time": 128.49,
+          "alternatives": [
+            {
+              "confidence": 0.9747,
+              "word": "código"
+            }
+          ],
+          "end_time": 128.86
+        },
+        {
+          "start_time": 131.29,
+          "alternatives": [
+            {
+              "confidence": 0.9821,
+              "word": "para"
+            }
+          ],
+          "end_time": 131.47
+        },
+        {
+          "start_time": 131.47,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "que"
+            }
+          ],
+          "end_time": 131.57
+        },
+        {
+          "start_time": 131.57,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "lo"
+            }
+          ],
+          "end_time": 131.76
+        },
+        {
+          "start_time": 131.76,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "tenga"
+            }
+          ],
+          "end_time": 132.03
+        },
+        {
+          "start_time": 132.03,
+          "alternatives": [
+            {
+              "confidence": 0.9716,
+              "word": "pues"
+            }
+          ],
+          "end_time": 132.23
+        },
+        {
+          "start_time": 132.23,
+          "alternatives": [
+            {
+              "confidence": 0.9142,
+              "word": "guardado"
+            }
+          ],
+          "end_time": 132.69
+        },
+        {
+          "start_time": 140.88,
+          "alternatives": [
+            {
+              "confidence": 0.9349,
+              "word": "me"
+            }
+          ],
+          "end_time": 141.18
+        },
+        {
+          "start_time": 141.18,
+          "alternatives": [
+            {
+              "confidence": 0.9423,
+              "word": "puede"
+            }
+          ],
+          "end_time": 141.38
+        },
+        {
+          "start_time": 141.38,
+          "alternatives": [
+            {
+              "confidence": 0.9921,
+              "word": "confirmar"
+            }
+          ],
+          "end_time": 141.79
+        },
+        {
+          "start_time": 141.79,
+          "alternatives": [
+            {
+              "confidence": 0.9893,
+              "word": "el"
+            }
+          ],
+          "end_time": 141.91
+        },
+        {
+          "start_time": 141.91,
+          "alternatives": [
+            {
+              "confidence": 0.9365,
+              "word": "poco"
+            }
+          ],
+          "end_time": 142.26
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "bueno",
+              122.68,
+              123.08
+            ],
+            [
+              "es",
+              123.08,
+              123.16
+            ],
+            [
+              "el",
+              123.16,
+              123.25
+            ],
+            [
+              "genérico",
+              123.25,
+              123.7
+            ],
+            [
+              "caballero",
+              123.7,
+              124.07
+            ],
+            [
+              "ya",
+              124.07,
+              124.21
+            ],
+            [
+              "tendría",
+              124.21,
+              124.59
+            ],
+            [
+              "que",
+              124.59,
+              124.67
+            ],
+            [
+              "ingresarlo",
+              124.67,
+              125.22
+            ],
+            [
+              "varias",
+              125.22,
+              125.49
+            ],
+            [
+              "veces",
+              125.49,
+              125.94
+            ],
+            [
+              "y",
+              126.74,
+              126.85
+            ],
+            [
+              "como",
+              126.85,
+              127.1
+            ],
+            [
+              "tal",
+              127.1,
+              127.27
+            ],
+            [
+              "y",
+              127.27,
+              127.53
+            ],
+            [
+              "el",
+              127.53,
+              127.71
+            ],
+            [
+              "código",
+              127.71,
+              128.25
+            ],
+            [
+              "el",
+              128.25,
+              128.49
+            ],
+            [
+              "código",
+              128.49,
+              128.86
+            ],
+            [
+              "público",
+              128.86,
+              129.42
+            ],
+            [
+              "que",
+              130.07,
+              130.22
+            ],
+            [
+              "es",
+              130.22,
+              130.42
+            ],
+            [
+              "de",
+              130.42,
+              130.56
+            ],
+            [
+              "lo",
+              130.56,
+              130.68
+            ],
+            [
+              "puede",
+              130.68,
+              130.91
+            ],
+            [
+              "brindar",
+              130.91,
+              131.29
+            ],
+            [
+              "para",
+              131.29,
+              131.47
+            ],
+            [
+              "que",
+              131.47,
+              131.57
+            ],
+            [
+              "lo",
+              131.57,
+              131.76
+            ],
+            [
+              "tenga",
+              131.76,
+              132.03
+            ],
+            [
+              "pues",
+              132.03,
+              132.23
+            ],
+            [
+              "guardado",
+              132.23,
+              132.69
+            ],
+            [
+              "el",
+              132.69,
+              132.8
+            ],
+            [
+              "puntapié",
+              134.94,
+              135.55
+            ],
+            [
+              "diga",
+              135.55,
+              136
+            ],
+            [
+              "we",
+              136.67,
+              137.07
+            ],
+            [
+              "will",
+              137.73,
+              138.22
+            ],
+            [
+              "es",
+              139.19,
+              139.29
+            ],
+            [
+              "un",
+              139.29,
+              139.4
+            ],
+            [
+              "poquito",
+              139.4,
+              139.86
+            ],
+            [
+              "a",
+              139.86,
+              139.9
+            ],
+            [
+              "poco",
+              139.9,
+              140.2
+            ],
+            [
+              "me",
+              140.88,
+              141.18
+            ],
+            [
+              "puede",
+              141.18,
+              141.38
+            ],
+            [
+              "confirmar",
+              141.38,
+              141.79
+            ],
+            [
+              "el",
+              141.79,
+              141.91
+            ],
+            [
+              "poco",
+              141.91,
+              142.26
+            ]
+          ],
+          "confidence": 0.777,
+          "transcript": "bueno es el genérico caballero ya tendría que ingresarlo varias veces y como tal y el código el código público que es de lo puede brindar para que lo tenga pues guardado el puntapié diga we will es un poquito a poco me puede confirmar el poco "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "mira",
+              146.71,
+              146.99
+            ],
+            [
+              "cuatro",
+              146.99,
+              147.34
+            ],
+            [
+              "ciento",
+              147.34,
+              148.07
+            ]
+          ],
+          "confidence": 0.646,
+          "transcript": "mira cuatro ciento "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "tendrá",
+              153.83,
+              154.2
+            ],
+            [
+              "cuatrocientos",
+              154.2,
+              154.83
+            ],
+            [
+              "ducados",
+              154.83,
+              155.22
+            ],
+            [
+              "por",
+              156.44,
+              156.61
+            ],
+            [
+              "internet",
+              156.61,
+              157.01
+            ]
+          ],
+          "confidence": 0.639,
+          "transcript": "tendrá cuatrocientos ducados por internet "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "hablando",
+              158.23,
+              158.64
+            ]
+          ],
+          "confidence": 0.607,
+          "transcript": "hablando "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 164.63,
+          "alternatives": [
+            {
+              "confidence": 0.9361,
+              "word": "entonces"
+            }
+          ],
+          "end_time": 164.92
+        },
+        {
+          "start_time": 164.92,
+          "alternatives": [
+            {
+              "confidence": 0.9342,
+              "word": "en"
+            }
+          ],
+          "end_time": 165
+        },
+        {
+          "start_time": 165,
+          "alternatives": [
+            {
+              "confidence": 0.9341,
+              "word": "ese"
+            }
+          ],
+          "end_time": 165.24
+        },
+        {
+          "start_time": 165.24,
+          "alternatives": [
+            {
+              "confidence": 0.9791,
+              "word": "caso"
+            }
+          ],
+          "end_time": 165.54
+        },
+        {
+          "start_time": 166.08,
+          "alternatives": [
+            {
+              "confidence": 0.9837,
+              "word": "por"
+            }
+          ],
+          "end_time": 166.23
+        },
+        {
+          "start_time": 166.23,
+          "alternatives": [
+            {
+              "confidence": 0.9944,
+              "word": "favor"
+            }
+          ],
+          "end_time": 166.65
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "caballero",
+              164.24,
+              164.63
+            ],
+            [
+              "entonces",
+              164.63,
+              164.92
+            ],
+            [
+              "en",
+              164.92,
+              165
+            ],
+            [
+              "ese",
+              165,
+              165.24
+            ],
+            [
+              "caso",
+              165.24,
+              165.54
+            ],
+            [
+              "permítame",
+              165.54,
+              166.08
+            ],
+            [
+              "por",
+              166.08,
+              166.23
+            ],
+            [
+              "favor",
+              166.23,
+              166.65
+            ]
+          ],
+          "confidence": 0.75,
+          "transcript": "caballero entonces en ese caso permítame por favor "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "aló",
+              169.39,
+              169.92
+            ],
+            [
+              "aló",
+              170.49,
+              170.68
+            ],
+            [
+              "lo",
+              170.68,
+              170.78
+            ],
+            [
+              "escucho",
+              170.78,
+              171.22
+            ]
+          ],
+          "confidence": 0.927,
+          "transcript": "aló aló lo escucho "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 172.2,
+          "alternatives": [
+            {
+              "confidence": 0.9357,
+              "word": "había"
+            }
+          ],
+          "end_time": 172.42
+        },
+        {
+          "start_time": 172.42,
+          "alternatives": [
+            {
+              "confidence": 0.9357,
+              "word": "llamado"
+            }
+          ],
+          "end_time": 172.8
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "había",
+              172.2,
+              172.42
+            ],
+            [
+              "llamado",
+              172.42,
+              172.8
+            ],
+            [
+              "antes",
+              172.8,
+              173.07
+            ],
+            [
+              "mediante",
+              173.26,
+              173.71
+            ],
+            [
+              "cuando",
+              175.92,
+              176.47
+            ],
+            [
+              "un",
+              177.61,
+              177.76
+            ],
+            [
+              "mal",
+              177.76,
+              177.91
+            ],
+            [
+              "que",
+              177.91,
+              178.01
+            ],
+            [
+              "un",
+              178.01,
+              178.23
+            ],
+            [
+              "después",
+              178.23,
+              178.56
+            ],
+            [
+              "doug",
+              178.56,
+              179
+            ],
+            [
+              "ningún",
+              179.64,
+              179.94
+            ],
+            [
+              "documento",
+              179.94,
+              180.63
+            ]
+          ],
+          "confidence": 0.74,
+          "transcript": "había llamado antes mediante cuando un mal que un después doug ningún documento "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "aló",
+              186.06,
+              186.33
+            ],
+            [
+              "me",
+              186.33,
+              186.42
+            ],
+            [
+              "escucha",
+              186.42,
+              186.96
+            ]
+          ],
+          "confidence": 0.826,
+          "transcript": "aló me escucha "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 192.02,
+          "alternatives": [
+            {
+              "confidence": 0.9345,
+              "word": "de"
+            }
+          ],
+          "end_time": 192.12
+        },
+        {
+          "start_time": 192.24,
+          "alternatives": [
+            {
+              "confidence": 0.9803,
+              "word": "manera"
+            }
+          ],
+          "end_time": 192.55
+        },
+        {
+          "start_time": 192.55,
+          "alternatives": [
+            {
+              "confidence": 0.9803,
+              "word": "le"
+            }
+          ],
+          "end_time": 192.71
+        },
+        {
+          "start_time": 192.71,
+          "alternatives": [
+            {
+              "confidence": 0.9802,
+              "word": "puedo"
+            }
+          ],
+          "end_time": 192.92
+        },
+        {
+          "start_time": 192.92,
+          "alternatives": [
+            {
+              "confidence": 0.9803,
+              "word": "ayudar"
+            }
+          ],
+          "end_time": 193.27
+        },
+        {
+          "start_time": 193.27,
+          "alternatives": [
+            {
+              "confidence": 0.9927,
+              "word": "bueno"
+            }
+          ],
+          "end_time": 193.63
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              188.09,
+              188.33
+            ],
+            [
+              "el",
+              188.36,
+              188.46
+            ],
+            [
+              "curso",
+              188.46,
+              188.88
+            ],
+            [
+              "ya",
+              189.46,
+              189.67
+            ],
+            [
+              "caballero",
+              189.67,
+              190.09
+            ],
+            [
+              "permítame",
+              190.09,
+              190.59
+            ],
+            [
+              "entonces",
+              190.59,
+              191.13
+            ],
+            [
+              "voy",
+              191.13,
+              191.34
+            ],
+            [
+              "a",
+              191.34,
+              191.39
+            ],
+            [
+              "verificar",
+              191.39,
+              191.87
+            ],
+            [
+              "a",
+              191.87,
+              191.9
+            ],
+            [
+              "ver",
+              191.9,
+              192.02
+            ],
+            [
+              "de",
+              192.02,
+              192.12
+            ],
+            [
+              "qué",
+              192.12,
+              192.24
+            ],
+            [
+              "manera",
+              192.24,
+              192.55
+            ],
+            [
+              "le",
+              192.55,
+              192.71
+            ],
+            [
+              "puedo",
+              192.71,
+              192.92
+            ],
+            [
+              "ayudar",
+              192.92,
+              193.27
+            ],
+            [
+              "bueno",
+              193.27,
+              193.63
+            ],
+            [
+              "ok",
+              194.32,
+              194.84
+            ]
+          ],
+          "confidence": 0.871,
+          "transcript": "sí el curso ya caballero permítame entonces voy a verificar a ver de qué manera le puedo ayudar bueno ok "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "m",
+              242.11,
+              244.32
+            ]
+          ],
+          "confidence": 0.581,
+          "transcript": "m "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              262.08,
+              262.38
+            ]
+          ],
+          "confidence": 0.704,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              264.6,
+              264.87
+            ]
+          ],
+          "confidence": 0.87,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "desde",
+              274.86,
+              275.27
+            ],
+            [
+              "ya",
+              275.27,
+              275.59
+            ],
+            [
+              "sí",
+              276.2,
+              276.73
+            ]
+          ],
+          "confidence": 0.538,
+          "transcript": "desde ya sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "hola",
+              279.79,
+              280.06
+            ]
+          ],
+          "confidence": 0.261,
+          "transcript": "hola "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              282.75,
+              283.1
+            ]
+          ],
+          "confidence": 0.983,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 284.73,
+          "alternatives": [
+            {
+              "confidence": 0.9148,
+              "word": "sí"
+            }
+          ],
+          "end_time": 285.06
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              284.73,
+              285.06
+            ]
+          ],
+          "confidence": 0.975,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "hola",
+              285.76,
+              285.99
+            ],
+            [
+              "soy",
+              285.99,
+              286.12
+            ]
+          ],
+          "confidence": 0.268,
+          "transcript": "hola soy "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "joe",
+              288.58,
+              289.13
+            ]
+          ],
+          "confidence": 0.177,
+          "transcript": "joe "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 290.07,
+          "alternatives": [
+            {
+              "confidence": 0.9212,
+              "word": "sí"
+            }
+          ],
+          "end_time": 290.66
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              290.07,
+              290.66
+            ]
+          ],
+          "confidence": 0.854,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              306.9,
+              307.32
+            ]
+          ],
+          "confidence": 0.98,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 310.49,
+          "alternatives": [
+            {
+              "confidence": 0.9215,
+              "word": "ya"
+            }
+          ],
+          "end_time": 310.92
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "ya",
+              310.49,
+              310.92
+            ]
+          ],
+          "confidence": 0.963,
+          "transcript": "ya "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 312.02,
+          "alternatives": [
+            {
+              "confidence": 0.9367,
+              "word": "sí"
+            }
+          ],
+          "end_time": 312.95
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              312.02,
+              312.95
+            ],
+            [
+              "sí",
+              312.95,
+              313.09
+            ]
+          ],
+          "confidence": 0.907,
+          "transcript": "sí sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sí",
+              315.07,
+              315.62
+            ]
+          ],
+          "confidence": 0.994,
+          "transcript": "sí "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "lo",
+              325.75,
+              325.98
+            ],
+            [
+              "caballero",
+              325.98,
+              326.57
+            ]
+          ],
+          "confidence": 0.585,
+          "transcript": "lo caballero "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "algo",
+              327.86,
+              328.34
+            ]
+          ],
+          "confidence": 0.371,
+          "transcript": "algo "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 336.03,
+          "alternatives": [
+            {
+              "confidence": 0.9019,
+              "word": "tengo"
+            }
+          ],
+          "end_time": 336.45
+        },
+        {
+          "start_time": 341.81,
+          "alternatives": [
+            {
+              "confidence": 0.9378,
+              "word": "que"
+            }
+          ],
+          "end_time": 341.89
+        },
+        {
+          "start_time": 342.26,
+          "alternatives": [
+            {
+              "confidence": 0.9478,
+              "word": "buenas"
+            }
+          ],
+          "end_time": 342.54
+        },
+        {
+          "start_time": 343.01,
+          "alternatives": [
+            {
+              "confidence": 0.9473,
+              "word": "luego"
+            }
+          ],
+          "end_time": 343.38
+        }
+      ],
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "aquí",
+              329.57,
+              329.77
+            ],
+            [
+              "es",
+              329.77,
+              330.01
+            ],
+            [
+              "si",
+              332.54,
+              332.88
+            ],
+            [
+              "bien",
+              333.32,
+              333.56
+            ],
+            [
+              "debería",
+              333.56,
+              333.91
+            ],
+            [
+              "número",
+              333.91,
+              334.22
+            ],
+            [
+              "alguna",
+              334.89,
+              335.27
+            ],
+            [
+              "cuatro",
+              335.27,
+              335.65
+            ],
+            [
+              "aquí",
+              335.88,
+              336.04
+            ],
+            [
+              "tengo",
+              336.04,
+              336.45
+            ],
+            [
+              "un",
+              341.29,
+              341.44
+            ],
+            [
+              "caballero",
+              341.44,
+              341.81
+            ],
+            [
+              "que",
+              341.81,
+              341.89
+            ],
+            [
+              "pasen",
+              341.89,
+              342.14
+            ],
+            [
+              "muy",
+              342.14,
+              342.26
+            ],
+            [
+              "buenas",
+              342.26,
+              342.54
+            ],
+            [
+              "noches",
+              342.54,
+              342.86
+            ],
+            [
+              "hasta",
+              342.86,
+              343.01
+            ],
+            [
+              "luego",
+              343.01,
+              343.38
+            ]
+          ],
+          "confidence": 0.737,
+          "transcript": "aquí es si bien debería número alguna cuatro aquí tengo un caballero que pasen muy buenas noches hasta luego "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}
